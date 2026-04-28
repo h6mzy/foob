@@ -1,11 +1,11 @@
 {
   "meta": {
     "name": "CHONGPANG '02",
-    "logo": "",
-    "bgColor": "",
-    "cardColor": "",
-    "numberColor": "",
-    "textColor": ""
+    "logo": "https://raw.githubusercontent.com/h6mzy/foob/main/public/images/logo.png",
+    "bgColor": "#454545",
+    "cardColor": "navy",
+    "numberColor": "yellow",
+    "textColor": "#eee"
   },
   "fixture": {
     "time": 0,
