@@ -39,6 +39,6 @@
     { "id": 44, "pos": "DEFENCE", "name": "Calvin", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Schick_S2526_9728_808799_XL.png" },
     { "id": 69, "pos": "DEFENCE", "name": "Fendi", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Seghir_S2526_0581_810788_XL.png" },
     { "id": 88, "pos": "DEFENCE", "name": "JC", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Poku_S2526_12535_808796_XL.png" },
-    { "id": 90, "pos": "DEFENCE", "name": "Keith", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Tella_S2526_1526_808803_XL.png" },
+    { "id": 90, "pos": "DEFENCE", "name": "Keith", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Tella_S2526_1526_808803_XL.png" }
   ]
 }
