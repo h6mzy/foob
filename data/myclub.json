@@ -6,7 +6,8 @@
     "bgColor": "#222",
     "cardColor": "black",
     "numberColor": "gold",
-    "textColor": "#eee"
+    "textColor": "#eee",
+    "lineup": [1, 3, 4, 6, 7, 9, 11, 19, 27, 69, 90]
   },
   "fixture": {
     "time": "2026-05-03T15:00",
