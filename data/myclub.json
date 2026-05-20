@@ -25,7 +25,7 @@
     { "id": 6, "pos": "MIDFIELD", "name": "Hamzy", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Kofane_S2526_6364_808785_XL.png" },
     { "id": 7, "pos": "MIDFIELD", "name": "Satish", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Tape_S2526_9144_808801_XL.png" },
     { "id": 8, "pos": "MIDFIELD", "name": "Daryl", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Grimaldo_S2526_2239h_811462_XL.png" },
-    { "id": 9, "pos": "STRIKER", "name": "Vijay", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Vazquez_S2526_272721h_811092_XL.png", "captain": true },
+    { "id": 9, "pos": "STRIKER", "name": "Vijay", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Vazquez_S2526_272721h_811092_XL.png" },
     { "id": 10, "pos": "STRIKER", "name": "James", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Fernandez_S2526_2863h_813187_XL.png" },
     { "id": 11, "pos": "MIDFIELD", "name": "Nori", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Hofmann_S2526_1074_808784_XL.png" },
     { "id": 13, "pos": "DEFENCE", "name": "Mark G", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Andrich_S2526_12352_808772_XL.png" },
@@ -37,7 +37,7 @@
     { "id": 27, "pos": "DEFENCE", "name": "Tim", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Culbreath_S2526_8833_808778_XL.png" },
     { "id": 30, "pos": "GOAL", "name": "Ali", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Lomb_S2526_5447_808787_XL.png" },
     { "id": 44, "pos": "DEFENCE", "name": "Calvin", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Schick_S2526_9728_808799_XL.png" },
-    { "id": 69, "pos": "DEFENCE", "name": "Fendi", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Seghir_S2526_0581_810788_XL.png", "viceCaptain": true },
+    { "id": 69, "pos": "DEFENCE", "name": "Fendi", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Seghir_S2526_0581_810788_XL.png" },
     { "id": 88, "pos": "DEFENCE", "name": "JC", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Poku_S2526_12535_808796_XL.png" },
     { "id": 90, "pos": "DEFENCE", "name": "Keith", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Tella_S2526_1526_808803_XL.png" }
   ]
