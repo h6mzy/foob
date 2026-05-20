@@ -6,7 +6,9 @@
     "bgColor": "#222",
     "cardColor": "black",
     "numberColor": "gold",
-    "textColor": "#eee"
+    "textColor": "#eee",
+    "captainId": 9,
+    "viceCaptainId": 69
   },
   "fixture": {
     "time": "2026-05-03T15:00",
