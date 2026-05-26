@@ -30,7 +30,7 @@
     { "id": 3, "pos": "STRIKER", "name": "Louis", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Bade_S2526_2335_811095_XL.png" },
     { "id": 4, "pos": "STRIKER", "name": "Derrick", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Tapsoba_S2526_5512_808802_XL.png" },
     { "id": 5, "pos": "DEFENCE", "name": "Alvin", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Arthur_S2526_6759_808773_XL.png" },
-    { "id": 6, "pos": "MIDFIELD", "name": "Hamzy", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Kofane_S2526_6364_808785_XL.png" },
+    { "id": 6, "pos": "MIDFIELD", "name": "Hamzy", "photoUrl": "https://raw.githubusercontent.com/h6mzy/foob/main/public/images/players/06.webp" },
     { "id": 7, "pos": "MIDFIELD", "name": "Satish", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Tape_S2526_9144_808801_XL.png" },
     { "id": 8, "pos": "MIDFIELD", "name": "Daryl", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Grimaldo_S2526_2239h_811462_XL.png" },
     { "id": 9, "pos": "STRIKER", "name": "Vijay", "photoUrl": "https://b04-ep-media-prod.azureedge.net/pickerimages/Vazquez_S2526_272721h_811092_XL.png" },
