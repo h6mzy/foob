@@ -717,4 +717,148 @@
   "position": "F",
   "number": 47,
   "nationality": "England"
+},
+{
+  "id": "f4f28527-4d1d-4712-b579-31f3efc2e112",
+  "name": "Whitmore",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "G",
+  "number": 1,
+  "nationality": "England"
+},
+{
+  "id": "392404ab-4f81-4f70-941f-fdd9a58935e2",
+  "name": "Henshaw",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "D",
+  "number": 2,
+  "nationality": "England"
+},
+{
+  "id": "d0cadd8b-424f-4c89-9661-aa27810d4cae",
+  "name": "MacDonald",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "D",
+  "number": 3,
+  "nationality": "Scotland"
+},
+{
+  "id": "872b2b6d-a98d-4a36-9c57-189ef15c9ee8",
+  "name": "Crawford",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "D",
+  "number": 5,
+  "nationality": "Scotland"
+},
+{
+  "id": "010b078f-3516-4055-8818-46347ecad430",
+  "name": "Hammond",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "M",
+  "number": 6,
+  "nationality": "England"
+},
+{
+  "id": "5bf1dab3-8a6e-4d9e-80a5-85f8d0f63ced",
+  "name": "Fleming",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "M",
+  "number": 7,
+  "nationality": "Scotland"
+},
+{
+  "id": "6798048e-f01f-4ec7-9652-6b4c641b5197",
+  "name": "Monroe",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "M",
+  "number": 8,
+  "nationality": "England"
+},
+{
+  "id": "6435128b-33b9-4cee-b01b-a7f6055e5124",
+  "name": "Sutherland",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "F",
+  "number": 9,
+  "nationality": "England"
+},
+{
+  "id": "e9832664-4db2-457f-b9d6-dc8b5326b54c",
+  "name": "Dalton",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "M",
+  "number": 10,
+  "nationality": "Wales"
+},
+{
+  "id": "b9e73cf7-bdea-4399-a9fd-2ba065a9ee8c",
+  "name": "Mackenzie",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "F",
+  "number": 11,
+  "nationality": "Scotland"
+},
+{
+  "id": "a66ecf82-37e1-449f-8d59-af0970cb0a6b",
+  "name": "Baxter",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "D",
+  "number": 20,
+  "nationality": "England"
+},
+{
+  "id": "ac229ab4-2f24-4ed4-ad36-c1c8c374f6b7",
+  "name": "Gallagher",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "D",
+  "number": 25,
+  "nationality": "Ireland"
+},
+{
+  "id": "5681ea7f-b185-49d4-bdf1-64c03cc656ff",
+  "name": "Brennan",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "M",
+  "number": 26,
+  "nationality": "Ireland"
+},
+{
+  "id": "9a670a95-622d-477a-bc58-71079c5be56b",
+  "name": "Reilly",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "G",
+  "number": 30,
+  "nationality": "Ireland"
+},
+{
+  "id": "43e1b540-c09c-4748-8c15-20760aed4b38",
+  "name": "Donovan",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "F",
+  "number": 32,
+  "nationality": "Ireland"
+},
+{
+  "id": "f897c04c-3640-412a-a6c2-0487c128f2fd",
+  "name": "Ritchie",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "M",
+  "number": 36,
+  "nationality": "Scotland"
+},
+{
+  "id": "e0a79bf2-b02e-43eb-bf7e-27a66705688f",
+  "name": "Salisbury",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "D",
+  "number": 42,
+  "nationality": "England"
+},
+{
+  "id": "d5c432f4-463b-4cc3-930f-815e71e6bc1c",
+  "name": "Baldwin",
+  "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+  "position": "F",
+  "number": 48,
+  "nationality": "England"
 }
