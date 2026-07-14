@@ -429,4 +429,148 @@
   "position": "F",
   "number": 49,
   "nationality": "England"
+},
+{
+  "id": "caf0e36b-46c2-4c80-be35-90e3432a26b1",
+  "name": "Dobson",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "G",
+  "number": 1,
+  "nationality": "England"
+},
+{
+  "id": "fccacd94-4ff6-4402-be40-ea68278e6d15",
+  "name": "Wallace",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "D",
+  "number": 2,
+  "nationality": "Scotland"
+},
+{
+  "id": "97fde8b5-54c5-4a5c-b920-16d5dac17d53",
+  "name": "Holden",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "D",
+  "number": 3,
+  "nationality": "England"
+},
+{
+  "id": "33fb3310-f60d-4a76-8680-94c0b0c5cda0",
+  "name": "Dawson",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "D",
+  "number": 5,
+  "nationality": "England"
+},
+{
+  "id": "5470a35e-2542-4070-83a0-ffb6148eacf0",
+  "name": "Burgess",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "M",
+  "number": 6,
+  "nationality": "England"
+},
+{
+  "id": "bbf75085-a670-411f-8923-af0ea3060d98",
+  "name": "Palmer",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "M",
+  "number": 7,
+  "nationality": "England"
+},
+{
+  "id": "233927ad-d53e-4bed-8b48-f2a8ecd8f34e",
+  "name": "Owen",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "M",
+  "number": 8,
+  "nationality": "Wales"
+},
+{
+  "id": "5560c8fb-52c5-4bf5-9aa1-09462096265e",
+  "name": "Cross",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "F",
+  "number": 9,
+  "nationality": "England"
+},
+{
+  "id": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+  "name": "Goodwin",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "F",
+  "number": 11,
+  "nationality": "England"
+},
+{
+  "id": "80834ae5-1150-4abf-80e2-5e14eed6eebe",
+  "name": "Nolan",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "D",
+  "number": 14,
+  "nationality": "Ireland"
+},
+{
+  "id": "4e10c911-a39f-43ef-9102-ad18c2288454",
+  "name": "Walton",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "M",
+  "number": 17,
+  "nationality": "England"
+},
+{
+  "id": "0ea5ed28-4eb3-48c1-ac70-bfb11647efed",
+  "name": "Quinn",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "D",
+  "number": 22,
+  "nationality": "Northern Ireland"
+},
+{
+  "id": "5ebb0df6-0712-42ca-a758-1c4198129625",
+  "name": "Burns",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "M",
+  "number": 26,
+  "nationality": "Scotland"
+},
+{
+  "id": "eaeca5fe-d0cb-495e-b78b-b1449e7796e0",
+  "name": "Lennox",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "G",
+  "number": 28,
+  "nationality": "Scotland"
+},
+{
+  "id": "dcbc3f3e-86cf-4af8-a259-53a9feb59ed6",
+  "name": "Faulkner",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "F",
+  "number": 29,
+  "nationality": "Ireland"
+},
+{
+  "id": "30fa39e3-f9aa-4107-87ec-18217b5f9a3e",
+  "name": "Kerr",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "M",
+  "number": 39,
+  "nationality": "Scotland"
+},
+{
+  "id": "81bf9c81-384a-4bbf-b498-8271f3744770",
+  "name": "Slater",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "D",
+  "number": 41,
+  "nationality": "England"
+},
+{
+  "id": "568343a3-054a-48a1-b3a1-d87bfae8c55e",
+  "name": "Byrne",
+  "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+  "position": "F",
+  "number": 45,
+  "nationality": "Ireland"
 }
