@@ -111,6 +111,60 @@ function red(players, clubId) {
   };
 }
 
+function goals(homeClub, awayClub) {
+  const diff = homeClub.rating - awayClub.rating;
+
+  const homeWeights = [
+    18, // 0
+    30, // 1
+    28, // 2
+    15, // 3
+    6,  // 4
+    2,  // 5
+    1   // 6
+  ];
+
+  const awayWeights = [...homeWeights];
+
+  // Home advantage
+  homeWeights[1] += 2;
+  homeWeights[2] += 2;
+
+  awayWeights[0] += 2;
+
+  // Rating influence
+  const swing = Math.round(diff / 8);
+
+  homeWeights[0] -= swing;
+  homeWeights[1] -= swing;
+  homeWeights[2] += swing;
+  homeWeights[3] += swing;
+  homeWeights[4] += Math.max(0, swing / 2);
+
+  awayWeights[0] += swing;
+  awayWeights[1] += swing;
+  awayWeights[2] -= swing;
+  awayWeights[3] -= swing;
+  awayWeights[4] -= Math.max(0, swing / 2);
+
+  const clamp = n => Math.max(1, Math.round(n));
+
+  const HOME = homeWeights.map((weight, value) => ({
+    value,
+    weight: clamp(weight)
+  }));
+
+  const AWAY = awayWeights.map((weight, value) => ({
+    value,
+    weight: clamp(weight)
+  }));
+
+  return {
+    home: weighted(HOME),
+    away: weighted(AWAY)
+  };
+}
+
 export function simulate(fixture, players) {
   const events = [];
 
