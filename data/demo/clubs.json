@@ -6,7 +6,8 @@
     "logoURL": "",
     "rating": 79,
     "defence": 78,
-    "attack": 81
+    "attack": 81,
+    "aggression": 74
   },
   {
     "id": "3228311a-ed32-4961-b71a-dde51481c304",
@@ -15,7 +16,8 @@
     "logoURL": "",
     "rating": 74,
     "defence": 74,
-    "attack": 76
+    "attack": 76,
+    "aggression": 70
   },
   {
     "id": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
@@ -24,7 +26,8 @@
     "logoURL": "",
     "rating": 66,
     "defence": 69,
-    "attack": 64
+    "attack": 64,
+    "aggression": 73
   },
   {
     "id": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
@@ -33,7 +36,8 @@
     "logoURL": "",
     "rating": 84,
     "defence": 78,
-    "attack": 90
+    "attack": 90,
+    "aggression": 64
   },
   {
     "id": "656db215-8164-4b10-a43d-a86ee907f5db",
@@ -42,7 +46,8 @@
     "logoURL": "",
     "rating": 86,
     "defence": 88,
-    "attack": 84
+    "attack": 84,
+    "aggression": 80
   },
   {
     "id": "b57280c9-dca5-463a-b4e3-007ddde4f126",
@@ -51,6 +56,7 @@
     "logoURL": "",
     "rating": 94,
     "defence": 93,
-    "attack": 95
+    "attack": 95,
+    "aggression": 72
   }
 ]
