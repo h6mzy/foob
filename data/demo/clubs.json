@@ -4,41 +4,53 @@
     "name": "Ashfield Town",
     "abbr": "AST",
     "logoURL": "",
-    "rating": 79
+    "rating": 79,
+    "defence": 78,
+    "attack": 81
   },
   {
     "id": "3228311a-ed32-4961-b71a-dde51481c304",
     "name": "Westhaven FC",
     "abbr": "WHF",
     "logoURL": "",
-    "rating": 74
+    "rating": 74,
+    "defence": 74,
+    "attack": 76
   },
   {
     "id": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
     "name": "Oakridge United",
     "abbr": "ORU",
     "logoURL": "",
-    "rating": 66
+    "rating": 66,
+    "defence": 69,
+    "attack": 64
   },
   {
     "id": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
     "name": "Stonebridge Athletic",
     "abbr": "SBA",
     "logoURL": "",
-    "rating": 84
+    "rating": 84,
+    "defence": 78,
+    "attack": 90
   },
   {
     "id": "656db215-8164-4b10-a43d-a86ee907f5db",
     "name": "Harbour City",
     "abbr": "HBC",
     "logoURL": "",
-    "rating": 86
+    "rating": 86,
+    "defence": 88,
+    "attack": 84
   },
   {
     "id": "b57280c9-dca5-463a-b4e3-007ddde4f126",
     "name": "Kingsley Rovers",
     "abbr": "KGR",
     "logoURL": "",
-    "rating": 94
+    "rating": 94,
+    "defence": 93,
+    "attack": 95
   }
 ]
