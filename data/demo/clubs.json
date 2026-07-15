@@ -7,7 +7,7 @@
     "rating": 79,
     "defence": 78,
     "attack": 81,
-    "aggression": 74
+    "aggression": 40
   },
   {
     "id": "3228311a-ed32-4961-b71a-dde51481c304",
@@ -17,7 +17,7 @@
     "rating": 74,
     "defence": 74,
     "attack": 76,
-    "aggression": 70
+    "aggression": 72
   },
   {
     "id": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
@@ -27,7 +27,7 @@
     "rating": 66,
     "defence": 69,
     "attack": 64,
-    "aggression": 73
+    "aggression": 61
   },
   {
     "id": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
@@ -57,6 +57,6 @@
     "rating": 94,
     "defence": 93,
     "attack": 95,
-    "aggression": 72
+    "aggression": 24
   }
 ]
