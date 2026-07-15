@@ -1,0 +1,2483 @@
+[
+  {
+    "id": "465327b0-024c-4b66-837a-4838c123bacf",
+    "round": 1,
+    "played": true,
+    "time": null,
+    "venue": "Kingsley Rovers Stadium",
+    "home": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "away": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "events": [
+      {
+        "id": "ab902fe8-e6b9-46a5-97b7-a59a69c59cb9",
+        "type": "goal",
+        "minute": {
+          "minute": 22,
+          "added": 0
+        },
+        "playerId": "d5c432f4-463b-4cc3-930f-815e71e6bc1c",
+        "assistId": "43e1b540-c09c-4748-8c15-20760aed4b38",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "69992c06-057e-4ba0-952a-55b9cd8d09fb",
+        "type": "goal",
+        "minute": {
+          "minute": 38,
+          "added": 0
+        },
+        "playerId": "e0a79bf2-b02e-43eb-bf7e-27a66705688f",
+        "assistId": "a66ecf82-37e1-449f-8d59-af0970cb0a6b",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "445bba36-2ea3-436e-b1af-b2fdd04b9d00",
+        "type": "goal",
+        "minute": {
+          "minute": 36,
+          "added": 0
+        },
+        "playerId": "0dc10f1f-7915-46ae-9121-946290808aea",
+        "assistId": "64a4b9bd-b79b-4dbd-b878-caeaed9b0d7f",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "262fa0a8-ea82-4544-bddb-13613e22c560",
+        "type": "goal",
+        "minute": {
+          "minute": 76,
+          "added": 0
+        },
+        "playerId": "9bf299ea-9898-4f05-9272-83de2142c566",
+        "assistId": "bd1d76ca-b7e1-4c53-bacb-cc046fdce8ec",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "cc413834-2f17-4946-bd97-ab48aaf1e133",
+        "type": "yellow",
+        "minute": {
+          "minute": 9,
+          "added": 0
+        },
+        "playerId": "43e1b540-c09c-4748-8c15-20760aed4b38",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "299e083c-44bb-423e-9843-d2635a830e1b",
+        "type": "yellow",
+        "minute": {
+          "minute": 6,
+          "added": 0
+        },
+        "playerId": "5681ea7f-b185-49d4-bdf1-64c03cc656ff",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "8cfe7d10-8406-434c-a07e-5bd8d039a6cd",
+        "type": "yellow",
+        "minute": {
+          "minute": 88,
+          "added": 0
+        },
+        "playerId": "f897c04c-3640-412a-a6c2-0487c128f2fd",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "1a64b78d-d262-4a7d-9bd8-94bd384247f7",
+        "type": "yellow",
+        "minute": {
+          "minute": 15,
+          "added": 0
+        },
+        "playerId": "18fa48ea-237b-4517-8279-86bba96b80cc",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "54380d48-b224-4450-8926-4310a3f8cc81",
+        "type": "yellow",
+        "minute": {
+          "minute": 8,
+          "added": 0
+        },
+        "playerId": "d891adc0-f111-4cd1-9965-0d33c267a12c",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      }
+    ]
+  },
+  {
+    "id": "af26d0a9-f39d-4810-a5ce-11c69445ff18",
+    "round": 1,
+    "played": true,
+    "time": null,
+    "venue": "Stonebridge Athletic Stadium",
+    "home": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "away": "3228311a-ed32-4961-b71a-dde51481c304",
+    "events": [
+      {
+        "id": "01b85364-b2fa-4c46-9999-cab79c230d9d",
+        "type": "goal",
+        "minute": {
+          "minute": 27,
+          "added": 0
+        },
+        "playerId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "assistId": "568343a3-054a-48a1-b3a1-d87bfae8c55e",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "9cd23d31-33eb-49d5-aac1-f6b6bff2ed91",
+        "type": "goal",
+        "minute": {
+          "minute": 60,
+          "added": 0
+        },
+        "playerId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "assistId": "4e10c911-a39f-43ef-9102-ad18c2288454",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "c9538941-a7be-447e-a944-3b7a6358ec35",
+        "type": "goal",
+        "minute": {
+          "minute": 14,
+          "added": 0
+        },
+        "playerId": "5560c8fb-52c5-4bf5-9aa1-09462096265e",
+        "assistId": null,
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "ada6ece3-3df6-4e7d-aafb-8070d8ae8493",
+        "type": "goal",
+        "minute": {
+          "minute": 33,
+          "added": 0
+        },
+        "playerId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "assistId": "bbf75085-a670-411f-8923-af0ea3060d98",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "4f7c3989-4302-4dad-90b4-7d294567d365",
+        "type": "goal",
+        "minute": {
+          "minute": 35,
+          "added": 0
+        },
+        "playerId": "33fb3310-f60d-4a76-8680-94c0b0c5cda0",
+        "assistId": "5560c8fb-52c5-4bf5-9aa1-09462096265e",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "2a573ba8-fcce-45fd-8b0d-be4eec52efc8",
+        "type": "goal",
+        "minute": {
+          "minute": 79,
+          "added": 0
+        },
+        "playerId": "dcbc3f3e-86cf-4af8-a259-53a9feb59ed6",
+        "assistId": "5560c8fb-52c5-4bf5-9aa1-09462096265e",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "7ca49936-4519-4533-9fe3-d5b3352d402f",
+        "type": "goal",
+        "minute": {
+          "minute": 31,
+          "added": 0
+        },
+        "playerId": "b5084911-87b8-491a-988d-9e995065fea3",
+        "assistId": "91c920f7-fb00-4703-b751-e776a04d1ce0",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "60f7c0ba-27ab-4393-a171-d64ca8902d65",
+        "type": "goal",
+        "minute": {
+          "minute": 3,
+          "added": 0
+        },
+        "playerId": "e64a44ae-9ad4-4d44-aa6d-25a9c3b50362",
+        "assistId": "ec6df4c4-8d75-437a-8e98-1936e157b5f7",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "20523139-8bac-420a-950c-28530108f4dc",
+        "type": "yellow",
+        "minute": {
+          "minute": 45,
+          "added": 0
+        },
+        "playerId": "0ea5ed28-4eb3-48c1-ac70-bfb11647efed",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "abffd1fe-9a82-4d28-bb92-0ed99673023c",
+        "type": "yellow",
+        "minute": {
+          "minute": 87,
+          "added": 0
+        },
+        "playerId": "fccacd94-4ff6-4402-be40-ea68278e6d15",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "ca72d791-12d1-4c79-b4c9-0145cff98d6a",
+        "type": "yellow",
+        "minute": {
+          "minute": 17,
+          "added": 0
+        },
+        "playerId": "9955db28-3368-49f0-863f-a7b8a556e71f",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      }
+    ]
+  },
+  {
+    "id": "a3eec55b-ce55-4773-9305-281092a2503d",
+    "round": 1,
+    "played": true,
+    "time": null,
+    "venue": "Oakridge United Stadium",
+    "home": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "away": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "events": [
+      {
+        "id": "021631f8-4c87-4b0a-aff4-640eeb4a7f7a",
+        "type": "goal",
+        "minute": {
+          "minute": 79,
+          "added": 0
+        },
+        "playerId": "6712377c-0cee-4814-b8a4-97944eb11298",
+        "assistId": "8ebb12fa-2ed4-4f99-9f2f-300d25055975",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "54b57473-6c9e-4983-aeae-16807ba455a5",
+        "type": "yellow",
+        "minute": {
+          "minute": 45,
+          "added": 0
+        },
+        "playerId": "2e8bb2ca-11c6-47a3-881a-f05f814dbdaf",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "19122a2d-f0eb-41e9-a949-5fb29fd6045f",
+        "type": "yellow",
+        "minute": {
+          "minute": 45,
+          "added": 0
+        },
+        "playerId": "3e59c514-86c1-4b27-b0ec-018e38bb0a69",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      }
+    ]
+  },
+  {
+    "id": "5f358056-bbb8-4fcc-b1b6-4d31c8a01455",
+    "round": 2,
+    "played": true,
+    "time": null,
+    "venue": "Westhaven FC Stadium",
+    "home": "3228311a-ed32-4961-b71a-dde51481c304",
+    "away": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "events": [
+      {
+        "id": "9466c866-3303-4d4e-9ca0-b9c126013574",
+        "type": "goal",
+        "minute": {
+          "minute": 30,
+          "added": 0
+        },
+        "playerId": "feeb8bfb-106d-4c86-8abd-7306f51d5a79",
+        "assistId": "91c920f7-fb00-4703-b751-e776a04d1ce0",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "7c969f1b-e5bd-4017-bcf9-8311841bf00a",
+        "type": "goal",
+        "minute": {
+          "minute": 84,
+          "added": 0
+        },
+        "playerId": "19f1ea8a-7b85-4015-a307-fb1c6ef1ff31",
+        "assistId": "f965bb74-8574-41f1-a670-4118ba2049f9",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "43d237f1-16e5-4f80-b983-aba77cbfb760",
+        "type": "goal",
+        "minute": {
+          "minute": 75,
+          "added": 0
+        },
+        "playerId": "f965bb74-8574-41f1-a670-4118ba2049f9",
+        "assistId": "e64a44ae-9ad4-4d44-aa6d-25a9c3b50362",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "3f9f4e49-3880-4be6-8db1-4d1c20c0e356",
+        "type": "goal",
+        "minute": {
+          "minute": 14,
+          "added": 0
+        },
+        "playerId": "d0cadd8b-424f-4c89-9661-aa27810d4cae",
+        "assistId": "b9e73cf7-bdea-4399-a9fd-2ba065a9ee8c",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "a874ddb7-22ef-490d-9bb9-0d66ca6340f4",
+        "type": "yellow",
+        "minute": {
+          "minute": 50,
+          "added": 0
+        },
+        "playerId": "e64a44ae-9ad4-4d44-aa6d-25a9c3b50362",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "3065353e-f86d-4508-80de-6894691b860e",
+        "type": "yellow",
+        "minute": {
+          "minute": 37,
+          "added": 0
+        },
+        "playerId": "ad54d712-6d06-4c6c-8b49-31f43c5927fe",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "2e0b30aa-292c-4bc3-99df-e2b9df09ebe3",
+        "type": "yellow",
+        "minute": {
+          "minute": 50,
+          "added": 0
+        },
+        "playerId": "9b118ce3-1fab-45dc-a700-565b84178794",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "a3079f11-d1e1-434f-8552-96958e91ffa5",
+        "type": "yellow",
+        "minute": {
+          "minute": 47,
+          "added": 0
+        },
+        "playerId": "010b078f-3516-4055-8818-46347ecad430",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      }
+    ]
+  },
+  {
+    "id": "fbd9945a-b696-4ddc-9e67-216109c3c064",
+    "round": 2,
+    "played": true,
+    "time": null,
+    "venue": "Oakridge United Stadium",
+    "home": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "away": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "events": [
+      {
+        "id": "327ebcc4-7201-4a92-82e2-51c364bde14d",
+        "type": "goal",
+        "minute": {
+          "minute": 39,
+          "added": 0
+        },
+        "playerId": "0a1a123c-be1b-47a8-945b-f10c202306ec",
+        "assistId": "660f6bc5-6b3d-41ff-be2f-4080e4e5c332",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "0c8b508e-3915-46a8-88eb-1553b30064ad",
+        "type": "goal",
+        "minute": {
+          "minute": 10,
+          "added": 0
+        },
+        "playerId": "44f6ecf1-98fa-4c36-a5ff-c45a0b93756b",
+        "assistId": null,
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "3785b8dd-cd4c-493f-8b7d-2a36b5c3bf80",
+        "type": "goal",
+        "minute": {
+          "minute": 26,
+          "added": 0
+        },
+        "playerId": "adb3d898-c413-44b4-b5fd-6616fe206788",
+        "assistId": "64a4b9bd-b79b-4dbd-b878-caeaed9b0d7f",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "583a9519-fcb3-4003-857b-785cf19a1c5b",
+        "type": "goal",
+        "minute": {
+          "minute": 42,
+          "added": 0
+        },
+        "playerId": "9bf299ea-9898-4f05-9272-83de2142c566",
+        "assistId": "0dc10f1f-7915-46ae-9121-946290808aea",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "6d43e76c-966a-4e7f-b894-b66f42d260e7",
+        "type": "yellow",
+        "minute": {
+          "minute": 45,
+          "added": 2
+        },
+        "playerId": "660f6bc5-6b3d-41ff-be2f-4080e4e5c332",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "c81a1d33-5c7b-484b-91be-2ea9f091496c",
+        "type": "yellow",
+        "minute": {
+          "minute": 40,
+          "added": 0
+        },
+        "playerId": "6f660fbd-6f9b-4f88-9344-434623e89c3a",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "8376740f-6706-4cad-aac6-8c2d9f8a3e63",
+        "type": "yellow",
+        "minute": {
+          "minute": 72,
+          "added": 0
+        },
+        "playerId": "d891adc0-f111-4cd1-9965-0d33c267a12c",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "957dc0b2-9a1a-4af2-8a51-0aee3dda85e4",
+        "type": "yellow",
+        "minute": {
+          "minute": 50,
+          "added": 0
+        },
+        "playerId": "51b039f6-a369-471d-aac1-acde75554aa2",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      }
+    ]
+  },
+  {
+    "id": "10efa846-a610-4ea5-9bf9-fdd77ef535eb",
+    "round": 2,
+    "played": true,
+    "time": null,
+    "venue": "Stonebridge Athletic Stadium",
+    "home": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "away": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "events": [
+      {
+        "id": "f7a46d8c-2738-4d1e-96ff-14a8539fc216",
+        "type": "goal",
+        "minute": {
+          "minute": 58,
+          "added": 0
+        },
+        "playerId": "5560c8fb-52c5-4bf5-9aa1-09462096265e",
+        "assistId": null,
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "9f54916d-5200-4cda-b4ce-1fda90b8d3b8",
+        "type": "goal",
+        "minute": {
+          "minute": 7,
+          "added": 0
+        },
+        "playerId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "assistId": "5560c8fb-52c5-4bf5-9aa1-09462096265e",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "fdfdfd70-e78d-4866-9d2d-09bb13d38139",
+        "type": "goal",
+        "minute": {
+          "minute": 50,
+          "added": 0
+        },
+        "playerId": "4e10c911-a39f-43ef-9102-ad18c2288454",
+        "assistId": null,
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "b1c23f3f-15b3-4086-a489-c373581cc375",
+        "type": "goal",
+        "minute": {
+          "minute": 66,
+          "added": 0
+        },
+        "playerId": "233927ad-d53e-4bed-8b48-f2a8ecd8f34e",
+        "assistId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "a86d8299-f545-455b-802d-80aced5e16cb",
+        "type": "goal",
+        "minute": {
+          "minute": 10,
+          "added": 0
+        },
+        "playerId": "cfd964bb-a90b-496d-9efc-0293b11a02ca",
+        "assistId": null,
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "6b9adc44-4616-49aa-b11e-5f1e27a0e3bb",
+        "type": "yellow",
+        "minute": {
+          "minute": 11,
+          "added": 0
+        },
+        "playerId": "fccacd94-4ff6-4402-be40-ea68278e6d15",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "421f0728-ad7e-4d73-b500-3243dfe332f8",
+        "type": "yellow",
+        "minute": {
+          "minute": 65,
+          "added": 0
+        },
+        "playerId": "dcbc3f3e-86cf-4af8-a259-53a9feb59ed6",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      }
+    ]
+  },
+  {
+    "id": "ee6240ce-05e6-415e-9402-15100c417b7f",
+    "round": 3,
+    "played": true,
+    "time": null,
+    "venue": "Kingsley Rovers Stadium",
+    "home": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "away": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "events": [
+      {
+        "id": "abadf2d3-d609-42d5-b1bc-1c99b527549f",
+        "type": "goal",
+        "minute": {
+          "minute": 49,
+          "added": 0
+        },
+        "playerId": "b9e73cf7-bdea-4399-a9fd-2ba065a9ee8c",
+        "assistId": null,
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "12d31102-9740-4bbd-9e9e-b286028f28ee",
+        "type": "goal",
+        "minute": {
+          "minute": 55,
+          "added": 0
+        },
+        "playerId": "f897c04c-3640-412a-a6c2-0487c128f2fd",
+        "assistId": "e9832664-4db2-457f-b9d6-dc8b5326b54c",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "4b78801e-86bc-4cbb-b269-036cc6e9eab5",
+        "type": "goal",
+        "minute": {
+          "minute": 48,
+          "added": 0
+        },
+        "playerId": "e0a79bf2-b02e-43eb-bf7e-27a66705688f",
+        "assistId": "010b078f-3516-4055-8818-46347ecad430",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "4251967b-8146-46c3-8032-5a066e9620a1",
+        "type": "goal",
+        "minute": {
+          "minute": 15,
+          "added": 0
+        },
+        "playerId": "b9e73cf7-bdea-4399-a9fd-2ba065a9ee8c",
+        "assistId": "f897c04c-3640-412a-a6c2-0487c128f2fd",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "8f09b538-8b08-4b6d-b97e-9f8888dff93e",
+        "type": "yellow",
+        "minute": {
+          "minute": 59,
+          "added": 0
+        },
+        "playerId": "e9832664-4db2-457f-b9d6-dc8b5326b54c",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "e0069741-5d97-4652-ac23-c19261b50d8f",
+        "type": "yellow",
+        "minute": {
+          "minute": 28,
+          "added": 0
+        },
+        "playerId": "6798048e-f01f-4ec7-9652-6b4c641b5197",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "c9751213-937d-42ac-8ac9-e74512728e24",
+        "type": "yellow",
+        "minute": {
+          "minute": 67,
+          "added": 0
+        },
+        "playerId": "4950dd21-6c2a-49fb-965b-f260da873ae6",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      }
+    ]
+  },
+  {
+    "id": "2c223b0c-ab63-4f21-947b-f0b1bde12c72",
+    "round": 3,
+    "played": true,
+    "time": null,
+    "venue": "Westhaven FC Stadium",
+    "home": "3228311a-ed32-4961-b71a-dde51481c304",
+    "away": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "events": [
+      {
+        "id": "c63cb213-9589-418f-b322-5bc88c84e9ce",
+        "type": "goal",
+        "minute": {
+          "minute": 56,
+          "added": 0
+        },
+        "playerId": "21ca155c-e5f7-473f-a6e8-a7e6c01ca139",
+        "assistId": "19f1ea8a-7b85-4015-a307-fb1c6ef1ff31",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "c7b27ba7-fe97-4e66-9e4b-0209d2200c32",
+        "type": "goal",
+        "minute": {
+          "minute": 19,
+          "added": 0
+        },
+        "playerId": "870d3323-7f47-4587-ab9f-208cee6ec61c",
+        "assistId": "91c920f7-fb00-4703-b751-e776a04d1ce0",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "6cfb3115-698d-4895-b67f-716e8d1687b1",
+        "type": "goal",
+        "minute": {
+          "minute": 52,
+          "added": 0
+        },
+        "playerId": "b5084911-87b8-491a-988d-9e995065fea3",
+        "assistId": null,
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "4c90e3a0-33de-45d2-891b-90606b49eaed",
+        "type": "goal",
+        "minute": {
+          "minute": 25,
+          "added": 0
+        },
+        "playerId": "e64a44ae-9ad4-4d44-aa6d-25a9c3b50362",
+        "assistId": "9955db28-3368-49f0-863f-a7b8a556e71f",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "bb8a4a46-c487-431a-a7d7-851067708444",
+        "type": "goal",
+        "minute": {
+          "minute": 11,
+          "added": 0
+        },
+        "playerId": "ec6df4c4-8d75-437a-8e98-1936e157b5f7",
+        "assistId": "9b118ce3-1fab-45dc-a700-565b84178794",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "b0a1d65d-40a7-41ca-a0fa-52225a4f2c2b",
+        "type": "goal",
+        "minute": {
+          "minute": 1,
+          "added": 0
+        },
+        "playerId": "e64a44ae-9ad4-4d44-aa6d-25a9c3b50362",
+        "assistId": null,
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "5916f149-8963-4f42-b852-db801728a496",
+        "type": "goal",
+        "minute": {
+          "minute": 76,
+          "added": 0
+        },
+        "playerId": "4cc09467-c7fd-465a-90cb-12164353647f",
+        "assistId": "a945a120-8bdf-4931-8d77-eacc8f20aebd",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "824f5a2e-8f64-4142-b1b0-d258056bc075",
+        "type": "goal",
+        "minute": {
+          "minute": 68,
+          "added": 0
+        },
+        "playerId": "d268ff32-a024-43d4-a0f1-1640a83531c1",
+        "assistId": "bd2d3a21-cf93-4aaa-851d-b50441d0fc86",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "cd67c21c-880e-4f35-b6f0-8437553444f1",
+        "type": "goal",
+        "minute": {
+          "minute": 7,
+          "added": 0
+        },
+        "playerId": "71db1753-4145-4e8a-8f53-8dd8677415ca",
+        "assistId": "d1fef779-86c4-479e-88ef-f43bc1edf01d",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "c5d35443-6afe-4965-931b-7c19e31be45f",
+        "type": "yellow",
+        "minute": {
+          "minute": 89,
+          "added": 0
+        },
+        "playerId": "9955db28-3368-49f0-863f-a7b8a556e71f",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "a15feb0b-d5e2-4d19-90a0-0a7b015b12a0",
+        "type": "yellow",
+        "minute": {
+          "minute": 78,
+          "added": 0
+        },
+        "playerId": "c982a6db-141f-4a08-9f46-e5a7e1591841",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      }
+    ]
+  },
+  {
+    "id": "18f46c70-afb9-41bb-a33e-091b51801232",
+    "round": 3,
+    "played": true,
+    "time": null,
+    "venue": "Stonebridge Athletic Stadium",
+    "home": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "away": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "events": [
+      {
+        "id": "15d86e5d-5f09-4f3e-8e96-38be4decae40",
+        "type": "goal",
+        "minute": {
+          "minute": 37,
+          "added": 0
+        },
+        "playerId": "5470a35e-2542-4070-83a0-ffb6148eacf0",
+        "assistId": "33fb3310-f60d-4a76-8680-94c0b0c5cda0",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "949d1216-4055-4c0a-91cf-ae39b76a108a",
+        "type": "goal",
+        "minute": {
+          "minute": 68,
+          "added": 0
+        },
+        "playerId": "be5488ef-f71b-406e-b590-1c58ee4772e3",
+        "assistId": null,
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "61990ca6-e7a7-4268-b856-2baffa928056",
+        "type": "yellow",
+        "minute": {
+          "minute": 32,
+          "added": 0
+        },
+        "playerId": "5ebb0df6-0712-42ca-a758-1c4198129625",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "9c632e4b-270c-4525-b759-1d11ea6b8a51",
+        "type": "yellow",
+        "minute": {
+          "minute": 41,
+          "added": 0
+        },
+        "playerId": "81bf9c81-384a-4bbf-b498-8271f3744770",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "4a3a988b-79b1-4bce-9e3d-d1c527fa84fc",
+        "type": "yellow",
+        "minute": {
+          "minute": 24,
+          "added": 0
+        },
+        "playerId": "0dc10f1f-7915-46ae-9121-946290808aea",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      }
+    ]
+  },
+  {
+    "id": "19574460-93e7-4981-bd83-66ede3992942",
+    "round": 4,
+    "played": true,
+    "time": null,
+    "venue": "Ashfield Town Stadium",
+    "home": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "away": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "events": [
+      {
+        "id": "36b384dc-cefe-4dcd-a3cf-d00e1150941e",
+        "type": "goal",
+        "minute": {
+          "minute": 77,
+          "added": 0
+        },
+        "playerId": "c982a6db-141f-4a08-9f46-e5a7e1591841",
+        "assistId": "cfd964bb-a90b-496d-9efc-0293b11a02ca",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "4ad752c1-6e5e-4727-a865-1720ff1bc7bf",
+        "type": "goal",
+        "minute": {
+          "minute": 48,
+          "added": 0
+        },
+        "playerId": "71db1753-4145-4e8a-8f53-8dd8677415ca",
+        "assistId": null,
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "d4a0c71a-14f5-4d91-b41c-275c0e83e217",
+        "type": "goal",
+        "minute": {
+          "minute": 34,
+          "added": 0
+        },
+        "playerId": "5bf1dab3-8a6e-4d9e-80a5-85f8d0f63ced",
+        "assistId": "d5c432f4-463b-4cc3-930f-815e71e6bc1c",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "c6dd8cc1-fc11-4a77-8c9b-c17c6c0825f7",
+        "type": "yellow",
+        "minute": {
+          "minute": 12,
+          "added": 0
+        },
+        "playerId": "d1fef779-86c4-479e-88ef-f43bc1edf01d",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "7b03043c-b3f7-4944-a8bf-1ba1518c1117",
+        "type": "yellow",
+        "minute": {
+          "minute": 17,
+          "added": 0
+        },
+        "playerId": "f897c04c-3640-412a-a6c2-0487c128f2fd",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "e3b90337-40b5-4651-b42c-03d179faaf99",
+        "type": "yellow",
+        "minute": {
+          "minute": 12,
+          "added": 0
+        },
+        "playerId": "5bf1dab3-8a6e-4d9e-80a5-85f8d0f63ced",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      }
+    ]
+  },
+  {
+    "id": "ef9d955a-e025-42dd-ad21-e64c6aed48b9",
+    "round": 4,
+    "played": true,
+    "time": null,
+    "venue": "Stonebridge Athletic Stadium",
+    "home": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "away": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "events": [
+      {
+        "id": "f4ac85c9-bcab-474d-b2ad-705a5c882ee4",
+        "type": "goal",
+        "minute": {
+          "minute": 70,
+          "added": 0
+        },
+        "playerId": "5470a35e-2542-4070-83a0-ffb6148eacf0",
+        "assistId": "5ebb0df6-0712-42ca-a758-1c4198129625",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "b7a5d69d-e6e2-4aa7-ba58-54dedbb73738",
+        "type": "goal",
+        "minute": {
+          "minute": 43,
+          "added": 0
+        },
+        "playerId": "2e8bb2ca-11c6-47a3-881a-f05f814dbdaf",
+        "assistId": "660f6bc5-6b3d-41ff-be2f-4080e4e5c332",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "9a755904-606f-4f7b-86af-2d0eb84236e3",
+        "type": "goal",
+        "minute": {
+          "minute": 39,
+          "added": 0
+        },
+        "playerId": "2e8bb2ca-11c6-47a3-881a-f05f814dbdaf",
+        "assistId": "8f5b211a-3cda-42d3-bc31-9d8e37e179a5",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "c03043cb-3aef-4136-bcf9-10dd131569eb",
+        "type": "yellow",
+        "minute": {
+          "minute": 11,
+          "added": 0
+        },
+        "playerId": "44f6ecf1-98fa-4c36-a5ff-c45a0b93756b",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "2b4b7050-0830-43eb-b3ef-f10c3209a716",
+        "type": "yellow",
+        "minute": {
+          "minute": 19,
+          "added": 0
+        },
+        "playerId": "4950dd21-6c2a-49fb-965b-f260da873ae6",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      }
+    ]
+  },
+  {
+    "id": "de3f0226-98d7-4031-9b72-3d6e4b95b2ff",
+    "round": 4,
+    "played": true,
+    "time": null,
+    "venue": "Westhaven FC Stadium",
+    "home": "3228311a-ed32-4961-b71a-dde51481c304",
+    "away": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "events": [
+      {
+        "id": "ff6e864b-0a04-4f1f-af73-741062046812",
+        "type": "goal",
+        "minute": {
+          "minute": 5,
+          "added": 0
+        },
+        "playerId": "ec6df4c4-8d75-437a-8e98-1936e157b5f7",
+        "assistId": "e64a44ae-9ad4-4d44-aa6d-25a9c3b50362",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "56f28a51-fb52-409f-8692-82f040627ae8",
+        "type": "goal",
+        "minute": {
+          "minute": 11,
+          "added": 0
+        },
+        "playerId": "ec6df4c4-8d75-437a-8e98-1936e157b5f7",
+        "assistId": "21ca155c-e5f7-473f-a6e8-a7e6c01ca139",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "2b1ce64a-e15b-4f56-a4e4-fe77fef3819d",
+        "type": "yellow",
+        "minute": {
+          "minute": 10,
+          "added": 0
+        },
+        "playerId": "b5084911-87b8-491a-988d-9e995065fea3",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "f098591e-5dab-487d-b3ce-b6dafc529656",
+        "type": "yellow",
+        "minute": {
+          "minute": 39,
+          "added": 0
+        },
+        "playerId": "9955db28-3368-49f0-863f-a7b8a556e71f",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "080fa798-fede-4e06-8548-047434f51988",
+        "type": "yellow",
+        "minute": {
+          "minute": 11,
+          "added": 0
+        },
+        "playerId": "9bf299ea-9898-4f05-9272-83de2142c566",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "3df1bbbe-c034-484f-b244-004180ed6266",
+        "type": "yellow",
+        "minute": {
+          "minute": 46,
+          "added": 0
+        },
+        "playerId": "51b039f6-a369-471d-aac1-acde75554aa2",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "2f8e2e80-e1bd-4a1a-9c1d-4c625e065b99",
+        "type": "yellow",
+        "minute": {
+          "minute": 53,
+          "added": 0
+        },
+        "playerId": "9b683e98-169c-47df-adce-f9adbd8f7a56",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      }
+    ]
+  },
+  {
+    "id": "95aa06a5-f437-4632-9448-c0d00e5e8583",
+    "round": 5,
+    "played": true,
+    "time": null,
+    "venue": "Kingsley Rovers Stadium",
+    "home": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "away": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "events": [
+      {
+        "id": "f28d508a-a85c-48bf-943f-afb2dd69abde",
+        "type": "goal",
+        "minute": {
+          "minute": 32,
+          "added": 0
+        },
+        "playerId": "010b078f-3516-4055-8818-46347ecad430",
+        "assistId": "d5c432f4-463b-4cc3-930f-815e71e6bc1c",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "43c15523-cd8b-497c-9e3e-6a9f3988da7f",
+        "type": "goal",
+        "minute": {
+          "minute": 10,
+          "added": 0
+        },
+        "playerId": "ac229ab4-2f24-4ed4-ad36-c1c8c374f6b7",
+        "assistId": null,
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "737fa57d-a0df-4cd0-9ad5-4f6bbbeb6ba5",
+        "type": "goal",
+        "minute": {
+          "minute": 25,
+          "added": 0
+        },
+        "playerId": "5bf1dab3-8a6e-4d9e-80a5-85f8d0f63ced",
+        "assistId": null,
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "15d521d0-8318-4c68-a8a5-68a1abb2b39b",
+        "type": "goal",
+        "minute": {
+          "minute": 49,
+          "added": 0
+        },
+        "playerId": "6435128b-33b9-4cee-b01b-a7f6055e5124",
+        "assistId": "f897c04c-3640-412a-a6c2-0487c128f2fd",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "ff939011-c22d-431e-bcb3-d53c11ecd04d",
+        "type": "goal",
+        "minute": {
+          "minute": 24,
+          "added": 0
+        },
+        "playerId": "568343a3-054a-48a1-b3a1-d87bfae8c55e",
+        "assistId": null,
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "72bfe01b-57f7-4cf4-afd4-b74c2df6850f",
+        "type": "goal",
+        "minute": {
+          "minute": 71,
+          "added": 0
+        },
+        "playerId": "233927ad-d53e-4bed-8b48-f2a8ecd8f34e",
+        "assistId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "f9525c3f-f25f-4f7f-b113-061f9a00cf30",
+        "type": "goal",
+        "minute": {
+          "minute": 33,
+          "added": 0
+        },
+        "playerId": "dcbc3f3e-86cf-4af8-a259-53a9feb59ed6",
+        "assistId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      }
+    ]
+  },
+  {
+    "id": "ea32c5ad-8bed-495e-8a62-1e98320a766a",
+    "round": 5,
+    "played": true,
+    "time": null,
+    "venue": "Ashfield Town Stadium",
+    "home": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "away": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "events": [
+      {
+        "id": "89ee33b1-32fd-4ce3-ad27-02ede9b74a5d",
+        "type": "goal",
+        "minute": {
+          "minute": 29,
+          "added": 0
+        },
+        "playerId": "cfd964bb-a90b-496d-9efc-0293b11a02ca",
+        "assistId": null,
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "04249516-d0fc-4fe6-b4db-ce538b0490ed",
+        "type": "goal",
+        "minute": {
+          "minute": 71,
+          "added": 0
+        },
+        "playerId": "cfd964bb-a90b-496d-9efc-0293b11a02ca",
+        "assistId": null,
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "4c5b7841-cc33-4334-97a0-25eb1413d187",
+        "type": "goal",
+        "minute": {
+          "minute": 12,
+          "added": 0
+        },
+        "playerId": "5e728c37-48f7-43d6-8450-b157fb705ea4",
+        "assistId": "8ebb12fa-2ed4-4f99-9f2f-300d25055975",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "b5e7fdb7-3c5b-48a0-b5f2-3e3fe62e9086",
+        "type": "yellow",
+        "minute": {
+          "minute": 6,
+          "added": 0
+        },
+        "playerId": "73867d8e-3aa1-4972-b903-778b14400a5f",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "fab8f5e4-056f-4c20-9889-b932ea386ba2",
+        "type": "yellow",
+        "minute": {
+          "minute": 63,
+          "added": 0
+        },
+        "playerId": "fb3dcfcc-5f0b-4264-b64b-7e81fa886bfe",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "648993e4-b477-4032-bcda-aca035453165",
+        "type": "yellow",
+        "minute": {
+          "minute": 1,
+          "added": 0
+        },
+        "playerId": "8100677d-2789-4b8c-b95e-c86e865116e0",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      }
+    ]
+  },
+  {
+    "id": "5985ad16-d9b1-4fa2-8215-e5e6c8136a50",
+    "round": 5,
+    "played": true,
+    "time": null,
+    "venue": "Westhaven FC Stadium",
+    "home": "3228311a-ed32-4961-b71a-dde51481c304",
+    "away": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "events": [
+      {
+        "id": "050f1fd4-ff6e-4433-9dce-92b51b679aa3",
+        "type": "goal",
+        "minute": {
+          "minute": 18,
+          "added": 0
+        },
+        "playerId": "91c920f7-fb00-4703-b751-e776a04d1ce0",
+        "assistId": "e64a44ae-9ad4-4d44-aa6d-25a9c3b50362",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "ecfed797-61cc-4991-92f9-8ad978fc8ae0",
+        "type": "goal",
+        "minute": {
+          "minute": 6,
+          "added": 0
+        },
+        "playerId": "91c920f7-fb00-4703-b751-e776a04d1ce0",
+        "assistId": "21ca155c-e5f7-473f-a6e8-a7e6c01ca139",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "62076635-26fc-4a39-a92d-a29d2b671e09",
+        "type": "goal",
+        "minute": {
+          "minute": 9,
+          "added": 0
+        },
+        "playerId": "b5084911-87b8-491a-988d-9e995065fea3",
+        "assistId": null,
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "1a7309cb-b85f-40c3-a864-f84d4d61f886",
+        "type": "goal",
+        "minute": {
+          "minute": 43,
+          "added": 0
+        },
+        "playerId": "d4882948-2302-4ce4-9c12-a6716838ed42",
+        "assistId": "660f6bc5-6b3d-41ff-be2f-4080e4e5c332",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "ef6e0133-c14e-445f-ba11-746a19f5251f",
+        "type": "goal",
+        "minute": {
+          "minute": 75,
+          "added": 0
+        },
+        "playerId": "660f6bc5-6b3d-41ff-be2f-4080e4e5c332",
+        "assistId": "44f6ecf1-98fa-4c36-a5ff-c45a0b93756b",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "7fb16990-abef-42fb-8781-51f5bbd76e7f",
+        "type": "yellow",
+        "minute": {
+          "minute": 55,
+          "added": 0
+        },
+        "playerId": "9b118ce3-1fab-45dc-a700-565b84178794",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "7a68a71d-e9a6-4874-9102-73de6045c545",
+        "type": "yellow",
+        "minute": {
+          "minute": 29,
+          "added": 0
+        },
+        "playerId": "d4882948-2302-4ce4-9c12-a6716838ed42",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "90c81b33-d9b0-4af6-aa4f-0b3b043090cb",
+        "type": "yellow",
+        "minute": {
+          "minute": 17,
+          "added": 0
+        },
+        "playerId": "8f5b211a-3cda-42d3-bc31-9d8e37e179a5",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "26f7f8f3-33d9-48b1-9971-0ae4cc73ecbc",
+        "type": "yellow",
+        "minute": {
+          "minute": 11,
+          "added": 0
+        },
+        "playerId": "d4882948-2302-4ce4-9c12-a6716838ed42",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      }
+    ]
+  },
+  {
+    "id": "f3bfc6ae-8b1d-43c6-a588-6f0d21756f85",
+    "round": 6,
+    "played": true,
+    "time": null,
+    "venue": "Harbour City Stadium",
+    "home": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "away": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "events": [
+      {
+        "id": "c5640db3-f28a-40d1-a73e-679c05887bf0",
+        "type": "goal",
+        "minute": {
+          "minute": 80,
+          "added": 0
+        },
+        "playerId": "64a4b9bd-b79b-4dbd-b878-caeaed9b0d7f",
+        "assistId": "bd1d76ca-b7e1-4c53-bacb-cc046fdce8ec",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "c5558c70-3311-44ef-bf0c-9b084b95b854",
+        "type": "goal",
+        "minute": {
+          "minute": 67,
+          "added": 0
+        },
+        "playerId": "9bf299ea-9898-4f05-9272-83de2142c566",
+        "assistId": "64a4b9bd-b79b-4dbd-b878-caeaed9b0d7f",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "7e1a99cd-1e26-4a90-9b87-a4c3ff7849df",
+        "type": "goal",
+        "minute": {
+          "minute": 69,
+          "added": 0
+        },
+        "playerId": "9bf299ea-9898-4f05-9272-83de2142c566",
+        "assistId": null,
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "be58af78-baf9-4943-ad92-22071274a841",
+        "type": "yellow",
+        "minute": {
+          "minute": 55,
+          "added": 0
+        },
+        "playerId": "7256e0cd-4689-406d-92d4-db8fcbf3aaed",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "b851e3c6-b46e-417f-b2a9-c7f17be428ea",
+        "type": "yellow",
+        "minute": {
+          "minute": 61,
+          "added": 0
+        },
+        "playerId": "010b078f-3516-4055-8818-46347ecad430",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "c79d05c9-6164-482a-81d5-61304d1ab339",
+        "type": "yellow",
+        "minute": {
+          "minute": 56,
+          "added": 0
+        },
+        "playerId": "872b2b6d-a98d-4a36-9c57-189ef15c9ee8",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      }
+    ]
+  },
+  {
+    "id": "9e5f139d-0b09-4d96-9688-1cff3e441a2d",
+    "round": 6,
+    "played": true,
+    "time": null,
+    "venue": "Westhaven FC Stadium",
+    "home": "3228311a-ed32-4961-b71a-dde51481c304",
+    "away": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "events": [
+      {
+        "id": "89424a47-86c7-459f-b884-2ccc16c91f25",
+        "type": "goal",
+        "minute": {
+          "minute": 4,
+          "added": 0
+        },
+        "playerId": "91c920f7-fb00-4703-b751-e776a04d1ce0",
+        "assistId": null,
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "03f90035-4bb7-47fe-bb7b-29b9850c3044",
+        "type": "goal",
+        "minute": {
+          "minute": 3,
+          "added": 0
+        },
+        "playerId": "19f1ea8a-7b85-4015-a307-fb1c6ef1ff31",
+        "assistId": "abc0d34c-5b92-4183-86f6-ffec8d9f552d",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "c46a0d88-f680-4134-98dd-64bbf31d07be",
+        "type": "goal",
+        "minute": {
+          "minute": 80,
+          "added": 0
+        },
+        "playerId": "ec6df4c4-8d75-437a-8e98-1936e157b5f7",
+        "assistId": "a44a6de6-cd6b-4299-b1f4-842726922e8e",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "d0617b4b-bfaa-4e9d-9556-bbe9a7b1a793",
+        "type": "goal",
+        "minute": {
+          "minute": 70,
+          "added": 0
+        },
+        "playerId": "dcbc3f3e-86cf-4af8-a259-53a9feb59ed6",
+        "assistId": "568343a3-054a-48a1-b3a1-d87bfae8c55e",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "b89768fb-50d1-406a-83fb-63d33949f67b",
+        "type": "goal",
+        "minute": {
+          "minute": 32,
+          "added": 0
+        },
+        "playerId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "assistId": "fccacd94-4ff6-4402-be40-ea68278e6d15",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "400dc0a4-d503-4cc1-87dc-e09f60e10719",
+        "type": "goal",
+        "minute": {
+          "minute": 70,
+          "added": 0
+        },
+        "playerId": "5ebb0df6-0712-42ca-a758-1c4198129625",
+        "assistId": "5560c8fb-52c5-4bf5-9aa1-09462096265e",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "6ce87e40-f867-4e81-9da0-cb4402a51d71",
+        "type": "yellow",
+        "minute": {
+          "minute": 36,
+          "added": 0
+        },
+        "playerId": "a44a6de6-cd6b-4299-b1f4-842726922e8e",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "20713b68-c1c3-4267-b6cb-6b4dee7ea9a5",
+        "type": "yellow",
+        "minute": {
+          "minute": 76,
+          "added": 0
+        },
+        "playerId": "9955db28-3368-49f0-863f-a7b8a556e71f",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "564d6f0b-6a5d-41b7-8361-aa78357da6da",
+        "type": "yellow",
+        "minute": {
+          "minute": 62,
+          "added": 0
+        },
+        "playerId": "f965bb74-8574-41f1-a670-4118ba2049f9",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "701a4edf-f0b6-4043-8074-182f0ab6ee0f",
+        "type": "yellow",
+        "minute": {
+          "minute": 51,
+          "added": 0
+        },
+        "playerId": "4e10c911-a39f-43ef-9102-ad18c2288454",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      }
+    ]
+  },
+  {
+    "id": "e026ba2c-bc8e-4614-a1b3-cc8751af9939",
+    "round": 6,
+    "played": true,
+    "time": null,
+    "venue": "Ashfield Town Stadium",
+    "home": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "away": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "events": [
+      {
+        "id": "aec2b8ba-5414-4267-8143-fef75f60a5fb",
+        "type": "goal",
+        "minute": {
+          "minute": 46,
+          "added": 0
+        },
+        "playerId": "cfcb899d-fd1d-42c2-ad4d-8cb353b0ff84",
+        "assistId": null,
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "11734c37-792f-445a-b494-84daf1a6a780",
+        "type": "yellow",
+        "minute": {
+          "minute": 34,
+          "added": 0
+        },
+        "playerId": "8ebb12fa-2ed4-4f99-9f2f-300d25055975",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "5e74dde0-3907-4e66-a5bd-c17f001aa48b",
+        "type": "yellow",
+        "minute": {
+          "minute": 69,
+          "added": 0
+        },
+        "playerId": "d268ff32-a024-43d4-a0f1-1640a83531c1",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "33ac7939-b89a-4c95-8127-70a685e56ce7",
+        "type": "yellow",
+        "minute": {
+          "minute": 2,
+          "added": 0
+        },
+        "playerId": "fb4e5d43-0728-4139-bcb2-8b9d149e15ff",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      }
+    ]
+  },
+  {
+    "id": "a8f9e44f-13ad-43ec-910b-e84a7574eefc",
+    "round": 7,
+    "played": true,
+    "time": null,
+    "venue": "Kingsley Rovers Stadium",
+    "home": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "away": "3228311a-ed32-4961-b71a-dde51481c304",
+    "events": [
+      {
+        "id": "76d2571c-4586-4333-8f07-8b83b5e7591f",
+        "type": "goal",
+        "minute": {
+          "minute": 18,
+          "added": 0
+        },
+        "playerId": "5bf1dab3-8a6e-4d9e-80a5-85f8d0f63ced",
+        "assistId": "6798048e-f01f-4ec7-9652-6b4c641b5197",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "cdf33083-139d-4e49-ae0e-610c7a0d744c",
+        "type": "goal",
+        "minute": {
+          "minute": 70,
+          "added": 0
+        },
+        "playerId": "5bf1dab3-8a6e-4d9e-80a5-85f8d0f63ced",
+        "assistId": "d5c432f4-463b-4cc3-930f-815e71e6bc1c",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "55a0fa21-2014-4838-bdbe-40610b92ecb6",
+        "type": "goal",
+        "minute": {
+          "minute": 40,
+          "added": 0
+        },
+        "playerId": "19f1ea8a-7b85-4015-a307-fb1c6ef1ff31",
+        "assistId": null,
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "a26abf63-76e2-427d-950f-b18ec377ea5d",
+        "type": "goal",
+        "minute": {
+          "minute": 85,
+          "added": 0
+        },
+        "playerId": "91c920f7-fb00-4703-b751-e776a04d1ce0",
+        "assistId": "ec6df4c4-8d75-437a-8e98-1936e157b5f7",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "899c3134-ccb9-40d2-b266-75e5b3560271",
+        "type": "yellow",
+        "minute": {
+          "minute": 32,
+          "added": 0
+        },
+        "playerId": "6798048e-f01f-4ec7-9652-6b4c641b5197",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "a99eb0a1-7a31-4f5f-ae90-6fd7e819c100",
+        "type": "yellow",
+        "minute": {
+          "minute": 11,
+          "added": 0
+        },
+        "playerId": "d0cadd8b-424f-4c89-9661-aa27810d4cae",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "b3d2d244-8040-460f-9a10-7368a10bb0e7",
+        "type": "yellow",
+        "minute": {
+          "minute": 15,
+          "added": 0
+        },
+        "playerId": "9b118ce3-1fab-45dc-a700-565b84178794",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      }
+    ]
+  },
+  {
+    "id": "ac66331d-f94e-4c6b-afed-d6f698148a86",
+    "round": 7,
+    "played": true,
+    "time": null,
+    "venue": "Harbour City Stadium",
+    "home": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "away": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "events": [
+      {
+        "id": "cb9187c5-c792-48ea-aa48-4aa4b9a162fe",
+        "type": "goal",
+        "minute": {
+          "minute": 90,
+          "added": 7
+        },
+        "playerId": "0dc10f1f-7915-46ae-9121-946290808aea",
+        "assistId": "9bf299ea-9898-4f05-9272-83de2142c566",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "9317a13b-dd0d-40cf-a2a5-c477c1299ffb",
+        "type": "goal",
+        "minute": {
+          "minute": 42,
+          "added": 0
+        },
+        "playerId": "19527b69-328d-4dab-8f9e-8812de33bad5",
+        "assistId": "bd1d76ca-b7e1-4c53-bacb-cc046fdce8ec",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "4020dabd-30ba-482f-a688-c0ec72d0c5b1",
+        "type": "goal",
+        "minute": {
+          "minute": 72,
+          "added": 0
+        },
+        "playerId": "64a4b9bd-b79b-4dbd-b878-caeaed9b0d7f",
+        "assistId": "be5488ef-f71b-406e-b590-1c58ee4772e3",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "271b5f92-98ac-46d6-9ff6-e445f28de1cd",
+        "type": "goal",
+        "minute": {
+          "minute": 23,
+          "added": 0
+        },
+        "playerId": "9bf299ea-9898-4f05-9272-83de2142c566",
+        "assistId": "19527b69-328d-4dab-8f9e-8812de33bad5",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "8fd07ca0-9347-451f-aa61-bacc8904cdeb",
+        "type": "goal",
+        "minute": {
+          "minute": 87,
+          "added": 0
+        },
+        "playerId": "44f6ecf1-98fa-4c36-a5ff-c45a0b93756b",
+        "assistId": "d4882948-2302-4ce4-9c12-a6716838ed42",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "46fe2562-4eac-4385-98c3-0695ebbbde17",
+        "type": "yellow",
+        "minute": {
+          "minute": 8,
+          "added": 0
+        },
+        "playerId": "8bcd2393-9025-472f-8665-8890775a6f3b",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "ba9c7588-8e56-4bd9-8689-fa51609fb58c",
+        "type": "yellow",
+        "minute": {
+          "minute": 86,
+          "added": 0
+        },
+        "playerId": "51b039f6-a369-471d-aac1-acde75554aa2",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      }
+    ]
+  },
+  {
+    "id": "f79144a7-a5f1-4319-afb7-07c5a8412a68",
+    "round": 7,
+    "played": true,
+    "time": null,
+    "venue": "Ashfield Town Stadium",
+    "home": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "away": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "events": [
+      {
+        "id": "f682498b-ca46-4583-9192-8512a056b4f8",
+        "type": "goal",
+        "minute": {
+          "minute": 38,
+          "added": 0
+        },
+        "playerId": "4cc09467-c7fd-465a-90cb-12164353647f",
+        "assistId": "d268ff32-a024-43d4-a0f1-1640a83531c1",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "132a4ef8-a8d2-473e-a161-d9b389fd7848",
+        "type": "goal",
+        "minute": {
+          "minute": 51,
+          "added": 0
+        },
+        "playerId": "bd2d3a21-cf93-4aaa-851d-b50441d0fc86",
+        "assistId": null,
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "76337cd2-b88d-4a8e-a112-39e78fa905fb",
+        "type": "goal",
+        "minute": {
+          "minute": 38,
+          "added": 0
+        },
+        "playerId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "assistId": "0ea5ed28-4eb3-48c1-ac70-bfb11647efed",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "ba07e435-b2cb-4d74-8f93-e6a12008aa6b",
+        "type": "yellow",
+        "minute": {
+          "minute": 3,
+          "added": 0
+        },
+        "playerId": "73867d8e-3aa1-4972-b903-778b14400a5f",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "adb3a38d-abab-4254-a9bd-fba4a550eac9",
+        "type": "yellow",
+        "minute": {
+          "minute": 19,
+          "added": 0
+        },
+        "playerId": "97fde8b5-54c5-4a5c-b920-16d5dac17d53",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      }
+    ]
+  },
+  {
+    "id": "13e9e069-3454-44d9-94f2-9b95b8462eb0",
+    "round": 8,
+    "played": true,
+    "time": null,
+    "venue": "Oakridge United Stadium",
+    "home": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "away": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "events": [
+      {
+        "id": "060abb2f-06e4-42ec-9ba2-97fea0d7504a",
+        "type": "goal",
+        "minute": {
+          "minute": 5,
+          "added": 0
+        },
+        "playerId": "44f6ecf1-98fa-4c36-a5ff-c45a0b93756b",
+        "assistId": "660f6bc5-6b3d-41ff-be2f-4080e4e5c332",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "37a6cd48-06ab-4023-bd17-d214e2f7c49f",
+        "type": "goal",
+        "minute": {
+          "minute": 87,
+          "added": 0
+        },
+        "playerId": "cfcb899d-fd1d-42c2-ad4d-8cb353b0ff84",
+        "assistId": "fb4e5d43-0728-4139-bcb2-8b9d149e15ff",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "a4a70293-0b6c-41b8-8e0d-ae3dc1d1beef",
+        "type": "goal",
+        "minute": {
+          "minute": 8,
+          "added": 0
+        },
+        "playerId": "392404ab-4f81-4f70-941f-fdd9a58935e2",
+        "assistId": null,
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "06d082f2-b988-4d5a-995b-293ee5f10630",
+        "type": "yellow",
+        "minute": {
+          "minute": 56,
+          "added": 0
+        },
+        "playerId": "cfcb899d-fd1d-42c2-ad4d-8cb353b0ff84",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      }
+    ]
+  },
+  {
+    "id": "c3cd964c-bebf-4169-bc11-136b33b4a5c5",
+    "round": 8,
+    "played": true,
+    "time": null,
+    "venue": "Ashfield Town Stadium",
+    "home": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "away": "3228311a-ed32-4961-b71a-dde51481c304",
+    "events": [
+      {
+        "id": "e7de7f3b-4f53-491b-9702-626b36455658",
+        "type": "goal",
+        "minute": {
+          "minute": 90,
+          "added": 8
+        },
+        "playerId": "5e728c37-48f7-43d6-8450-b157fb705ea4",
+        "assistId": "4cc09467-c7fd-465a-90cb-12164353647f",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "632883ca-7846-4961-a8ed-d355cee5f3a5",
+        "type": "goal",
+        "minute": {
+          "minute": 83,
+          "added": 0
+        },
+        "playerId": "bd2d3a21-cf93-4aaa-851d-b50441d0fc86",
+        "assistId": "d1fef779-86c4-479e-88ef-f43bc1edf01d",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "e95d8b58-201f-4408-b8ec-0d8afedc2d34",
+        "type": "goal",
+        "minute": {
+          "minute": 78,
+          "added": 0
+        },
+        "playerId": "cfd964bb-a90b-496d-9efc-0293b11a02ca",
+        "assistId": null,
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "f5572f99-c69a-497e-8d30-dbdddfaa6659",
+        "type": "goal",
+        "minute": {
+          "minute": 28,
+          "added": 0
+        },
+        "playerId": "feeb8bfb-106d-4c86-8abd-7306f51d5a79",
+        "assistId": "9b118ce3-1fab-45dc-a700-565b84178794",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "e0ec4997-af30-4a46-98a5-f272ee079428",
+        "type": "yellow",
+        "minute": {
+          "minute": 50,
+          "added": 0
+        },
+        "playerId": "b69f77a3-19da-4e17-a8ee-1aef90ac7cb4",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "ba543deb-74fe-4be4-b6bb-0461ff336605",
+        "type": "yellow",
+        "minute": {
+          "minute": 64,
+          "added": 0
+        },
+        "playerId": "a945a120-8bdf-4931-8d77-eacc8f20aebd",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      }
+    ]
+  },
+  {
+    "id": "a5ff4106-1d2e-4442-a308-e919dd829604",
+    "round": 8,
+    "played": true,
+    "time": null,
+    "venue": "Harbour City Stadium",
+    "home": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "away": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "events": [
+      {
+        "id": "fdaab5b4-2e4d-468a-8e34-e47006fd6efb",
+        "type": "goal",
+        "minute": {
+          "minute": 71,
+          "added": 0
+        },
+        "playerId": "bd1d76ca-b7e1-4c53-bacb-cc046fdce8ec",
+        "assistId": null,
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "9cf4630f-b9f8-48e5-a898-cdefb9fc9ddc",
+        "type": "yellow",
+        "minute": {
+          "minute": 39,
+          "added": 0
+        },
+        "playerId": "adb3d898-c413-44b4-b5fd-6616fe206788",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "c62d591b-ae41-4156-b54d-52f7838e43a5",
+        "type": "yellow",
+        "minute": {
+          "minute": 82,
+          "added": 0
+        },
+        "playerId": "80834ae5-1150-4abf-80e2-5e14eed6eebe",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "ec0301df-af10-4fe6-a85f-fe32fe1cc455",
+        "type": "yellow",
+        "minute": {
+          "minute": 11,
+          "added": 0
+        },
+        "playerId": "caf0e36b-46c2-4c80-be35-90e3432a26b1",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      }
+    ]
+  },
+  {
+    "id": "d1194aeb-202d-48df-a85d-cf050509a889",
+    "round": 9,
+    "played": true,
+    "time": null,
+    "venue": "Kingsley Rovers Stadium",
+    "home": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "away": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "events": [
+      {
+        "id": "4ee5e65a-3365-475c-af4a-db26120396f4",
+        "type": "goal",
+        "minute": {
+          "minute": 80,
+          "added": 0
+        },
+        "playerId": "ac229ab4-2f24-4ed4-ad36-c1c8c374f6b7",
+        "assistId": "a66ecf82-37e1-449f-8d59-af0970cb0a6b",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "1de63517-5359-435c-860e-73265b541666",
+        "type": "goal",
+        "minute": {
+          "minute": 45,
+          "added": 0
+        },
+        "playerId": "5bf1dab3-8a6e-4d9e-80a5-85f8d0f63ced",
+        "assistId": "5681ea7f-b185-49d4-bdf1-64c03cc656ff",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "36a3b305-ac35-489b-a15a-27e75161d231",
+        "type": "goal",
+        "minute": {
+          "minute": 67,
+          "added": 0
+        },
+        "playerId": "cfd964bb-a90b-496d-9efc-0293b11a02ca",
+        "assistId": null,
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "65440606-9bfa-4c27-a2a9-78f3c98e3ca2",
+        "type": "goal",
+        "minute": {
+          "minute": 58,
+          "added": 0
+        },
+        "playerId": "5e728c37-48f7-43d6-8450-b157fb705ea4",
+        "assistId": "a945a120-8bdf-4931-8d77-eacc8f20aebd",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      }
+    ]
+  },
+  {
+    "id": "c72c30d2-647f-4e12-be41-2fbfa1e6a9ee",
+    "round": 9,
+    "played": true,
+    "time": null,
+    "venue": "Oakridge United Stadium",
+    "home": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "away": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "events": [
+      {
+        "id": "5c27ad70-94dd-4070-8c07-6646ce497b64",
+        "type": "goal",
+        "minute": {
+          "minute": 32,
+          "added": 0
+        },
+        "playerId": "8f5b211a-3cda-42d3-bc31-9d8e37e179a5",
+        "assistId": "cfcb899d-fd1d-42c2-ad4d-8cb353b0ff84",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "c44f9e70-0156-4776-8349-16fc069412a9",
+        "type": "goal",
+        "minute": {
+          "minute": 54,
+          "added": 0
+        },
+        "playerId": "2e8bb2ca-11c6-47a3-881a-f05f814dbdaf",
+        "assistId": "0a1a123c-be1b-47a8-945b-f10c202306ec",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "5d2a9276-b83c-4e6d-a293-478c8173cc31",
+        "type": "goal",
+        "minute": {
+          "minute": 23,
+          "added": 0
+        },
+        "playerId": "a9835607-3d63-43ce-834d-19bd4ad60c98",
+        "assistId": "0a1a123c-be1b-47a8-945b-f10c202306ec",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "e73b99c0-2450-4245-91c5-42c02dce5c8d",
+        "type": "goal",
+        "minute": {
+          "minute": 9,
+          "added": 0
+        },
+        "playerId": "0a1a123c-be1b-47a8-945b-f10c202306ec",
+        "assistId": null,
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "8ba9d59f-0596-455b-ba78-a13867d8b1db",
+        "type": "goal",
+        "minute": {
+          "minute": 45,
+          "added": 1
+        },
+        "playerId": "dcbc3f3e-86cf-4af8-a259-53a9feb59ed6",
+        "assistId": "81bf9c81-384a-4bbf-b498-8271f3744770",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "8f966b48-2db7-49d6-8998-4bd4615c04e7",
+        "type": "goal",
+        "minute": {
+          "minute": 3,
+          "added": 0
+        },
+        "playerId": "fccacd94-4ff6-4402-be40-ea68278e6d15",
+        "assistId": "568343a3-054a-48a1-b3a1-d87bfae8c55e",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "e69e8eb9-a0bc-4af2-9e88-c02840eca38c",
+        "type": "yellow",
+        "minute": {
+          "minute": 75,
+          "added": 0
+        },
+        "playerId": "dcbc3f3e-86cf-4af8-a259-53a9feb59ed6",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "42b5ca12-40dc-4c15-a311-316b7d2d34d9",
+        "type": "yellow",
+        "minute": {
+          "minute": 68,
+          "added": 0
+        },
+        "playerId": "5470a35e-2542-4070-83a0-ffb6148eacf0",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      }
+    ]
+  },
+  {
+    "id": "6ded32a5-f54f-4a1b-8d43-770bf0f18a42",
+    "round": 9,
+    "played": true,
+    "time": null,
+    "venue": "Harbour City Stadium",
+    "home": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "away": "3228311a-ed32-4961-b71a-dde51481c304",
+    "events": [
+      {
+        "id": "be85712a-15da-4978-972e-2a7b75c97843",
+        "type": "goal",
+        "minute": {
+          "minute": 3,
+          "added": 0
+        },
+        "playerId": "bd1d76ca-b7e1-4c53-bacb-cc046fdce8ec",
+        "assistId": "8100677d-2789-4b8c-b95e-c86e865116e0",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "88fcede2-82eb-49e0-9fa1-25fa2b11f5a2",
+        "type": "goal",
+        "minute": {
+          "minute": 69,
+          "added": 0
+        },
+        "playerId": "adb3d898-c413-44b4-b5fd-6616fe206788",
+        "assistId": null,
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "8f5778ff-0d7f-4e12-9a44-725979012ca0",
+        "type": "goal",
+        "minute": {
+          "minute": 23,
+          "added": 0
+        },
+        "playerId": "8100677d-2789-4b8c-b95e-c86e865116e0",
+        "assistId": "18fa48ea-237b-4517-8279-86bba96b80cc",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "f63887a9-bbb6-4869-8358-073bd9b8c998",
+        "type": "yellow",
+        "minute": {
+          "minute": 58,
+          "added": 0
+        },
+        "playerId": "8bcd2393-9025-472f-8665-8890775a6f3b",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "d94b8818-5a0c-4242-8014-bb9bbab45bd6",
+        "type": "yellow",
+        "minute": {
+          "minute": 59,
+          "added": 0
+        },
+        "playerId": "51b039f6-a369-471d-aac1-acde75554aa2",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "3ba64928-f73a-4bbc-a753-c54dd4da5d06",
+        "type": "yellow",
+        "minute": {
+          "minute": 65,
+          "added": 0
+        },
+        "playerId": "870d3323-7f47-4587-ab9f-208cee6ec61c",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "6832b9c9-d2b6-4e69-9ab2-b8436dca0239",
+        "type": "yellow",
+        "minute": {
+          "minute": 78,
+          "added": 0
+        },
+        "playerId": "9b135a5e-1946-4918-8b40-2df44e4d0ed9",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "26b77b88-1c7b-4db9-b570-fdc57a6f2be3",
+        "type": "yellow",
+        "minute": {
+          "minute": 73,
+          "added": 0
+        },
+        "playerId": "b5084911-87b8-491a-988d-9e995065fea3",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      }
+    ]
+  },
+  {
+    "id": "4fe8a634-9add-4c5c-bd02-506ce5bb268e",
+    "round": 10,
+    "played": true,
+    "time": null,
+    "venue": "Stonebridge Athletic Stadium",
+    "home": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
+    "away": "b57280c9-dca5-463a-b4e3-007ddde4f126",
+    "events": [
+      {
+        "id": "70f4b180-ce65-4b27-b5f3-29f3bdba8564",
+        "type": "goal",
+        "minute": {
+          "minute": 30,
+          "added": 0
+        },
+        "playerId": "dcbc3f3e-86cf-4af8-a259-53a9feb59ed6",
+        "assistId": "bbf75085-a670-411f-8923-af0ea3060d98",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "4ca2de75-f8d5-4937-b98b-173fa74d65a0",
+        "type": "goal",
+        "minute": {
+          "minute": 45,
+          "added": 4
+        },
+        "playerId": "5560c8fb-52c5-4bf5-9aa1-09462096265e",
+        "assistId": "568343a3-054a-48a1-b3a1-d87bfae8c55e",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "b75be95f-d85f-4dc2-83ea-ef9b641145df",
+        "type": "goal",
+        "minute": {
+          "minute": 6,
+          "added": 0
+        },
+        "playerId": "6798048e-f01f-4ec7-9652-6b4c641b5197",
+        "assistId": "43e1b540-c09c-4748-8c15-20760aed4b38",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "edcec758-479d-4205-b6eb-bc589ee12acb",
+        "type": "goal",
+        "minute": {
+          "minute": 52,
+          "added": 0
+        },
+        "playerId": "b9e73cf7-bdea-4399-a9fd-2ba065a9ee8c",
+        "assistId": "d0cadd8b-424f-4c89-9661-aa27810d4cae",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      },
+      {
+        "id": "1dd7b3c7-9f9f-4c08-a182-ac0b32eb2f68",
+        "type": "yellow",
+        "minute": {
+          "minute": 80,
+          "added": 0
+        },
+        "playerId": "dcbc3f3e-86cf-4af8-a259-53a9feb59ed6",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "11fd91f2-e478-40e9-bd78-5085c431b201",
+        "type": "yellow",
+        "minute": {
+          "minute": 25,
+          "added": 0
+        },
+        "playerId": "1cf87352-4031-47ad-8cef-ea6f0795ba36",
+        "clubId": "99d1a6f3-1c47-413d-aba8-3d202e398bc1"
+      },
+      {
+        "id": "530a3a54-148f-41eb-a19c-0f85e6f6d63b",
+        "type": "yellow",
+        "minute": {
+          "minute": 62,
+          "added": 0
+        },
+        "playerId": "010b078f-3516-4055-8818-46347ecad430",
+        "clubId": "b57280c9-dca5-463a-b4e3-007ddde4f126"
+      }
+    ]
+  },
+  {
+    "id": "061a045b-f7e1-4119-ab16-b162f5441668",
+    "round": 10,
+    "played": true,
+    "time": null,
+    "venue": "Harbour City Stadium",
+    "home": "656db215-8164-4b10-a43d-a86ee907f5db",
+    "away": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
+    "events": [
+      {
+        "id": "1ed8bd39-79d2-411f-9747-c53421d54d04",
+        "type": "goal",
+        "minute": {
+          "minute": 4,
+          "added": 0
+        },
+        "playerId": "be5488ef-f71b-406e-b590-1c58ee4772e3",
+        "assistId": "0dc10f1f-7915-46ae-9121-946290808aea",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "ddc469c0-3560-4b41-a878-344c88b6b4ff",
+        "type": "goal",
+        "minute": {
+          "minute": 36,
+          "added": 0
+        },
+        "playerId": "adb3d898-c413-44b4-b5fd-6616fe206788",
+        "assistId": null,
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      },
+      {
+        "id": "0d0c6239-bef0-4a6b-9f76-2ce34975f29d",
+        "type": "goal",
+        "minute": {
+          "minute": 27,
+          "added": 0
+        },
+        "playerId": "a945a120-8bdf-4931-8d77-eacc8f20aebd",
+        "assistId": "71db1753-4145-4e8a-8f53-8dd8677415ca",
+        "clubId": "806ecbdf-789e-45e6-8c7d-54e306aa9d60"
+      },
+      {
+        "id": "c23176d8-938a-4702-a4d1-185473f5765d",
+        "type": "yellow",
+        "minute": {
+          "minute": 49,
+          "added": 0
+        },
+        "playerId": "d891adc0-f111-4cd1-9965-0d33c267a12c",
+        "clubId": "656db215-8164-4b10-a43d-a86ee907f5db"
+      }
+    ]
+  },
+  {
+    "id": "5dce3193-92d3-4173-8f79-e5333e3b5669",
+    "round": 10,
+    "played": true,
+    "time": null,
+    "venue": "Oakridge United Stadium",
+    "home": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
+    "away": "3228311a-ed32-4961-b71a-dde51481c304",
+    "events": [
+      {
+        "id": "1e4a59c0-da08-4750-bb9c-301263791ba1",
+        "type": "goal",
+        "minute": {
+          "minute": 11,
+          "added": 0
+        },
+        "playerId": "68e0ba6a-5894-4776-9e5c-1333a6e2145e",
+        "assistId": "660f6bc5-6b3d-41ff-be2f-4080e4e5c332",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "b677bc2d-a681-43b4-b84c-7eee7d6f897f",
+        "type": "goal",
+        "minute": {
+          "minute": 50,
+          "added": 0
+        },
+        "playerId": "0a1a123c-be1b-47a8-945b-f10c202306ec",
+        "assistId": "7d0dfad8-11bd-4885-8949-ac6ba353948e",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "7471d49f-571d-4d23-b536-34b19dba0f82",
+        "type": "goal",
+        "minute": {
+          "minute": 12,
+          "added": 0
+        },
+        "playerId": "0a1a123c-be1b-47a8-945b-f10c202306ec",
+        "assistId": null,
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "850bd140-3940-4382-b590-70e2637d28b1",
+        "type": "goal",
+        "minute": {
+          "minute": 7,
+          "added": 0
+        },
+        "playerId": "0a1a123c-be1b-47a8-945b-f10c202306ec",
+        "assistId": "2e8bb2ca-11c6-47a3-881a-f05f814dbdaf",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "5d1305b9-6b01-4d0e-b0b0-828fd37608cc",
+        "type": "goal",
+        "minute": {
+          "minute": 27,
+          "added": 0
+        },
+        "playerId": "2e8bb2ca-11c6-47a3-881a-f05f814dbdaf",
+        "assistId": "660f6bc5-6b3d-41ff-be2f-4080e4e5c332",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "a8bd36e7-6310-40d5-aaa0-870d4cee9f49",
+        "type": "goal",
+        "minute": {
+          "minute": 45,
+          "added": 0
+        },
+        "playerId": "19f1ea8a-7b85-4015-a307-fb1c6ef1ff31",
+        "assistId": null,
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "d47d96dd-14ae-44ad-9edb-a83a9ca16817",
+        "type": "goal",
+        "minute": {
+          "minute": 41,
+          "added": 0
+        },
+        "playerId": "9b118ce3-1fab-45dc-a700-565b84178794",
+        "assistId": "f965bb74-8574-41f1-a670-4118ba2049f9",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "d0f65fba-8452-4493-8f26-75a1273cd1b0",
+        "type": "yellow",
+        "minute": {
+          "minute": 51,
+          "added": 0
+        },
+        "playerId": "b2c1ed04-e78b-4b09-9714-675c73e5f70a",
+        "clubId": "ea67f2fe-d3fd-4095-80a6-f66622022dec"
+      },
+      {
+        "id": "bdd005c9-d75d-4221-9d2f-7b60a520ee11",
+        "type": "yellow",
+        "minute": {
+          "minute": 41,
+          "added": 0
+        },
+        "playerId": "9955db28-3368-49f0-863f-a7b8a556e71f",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      },
+      {
+        "id": "d2ec6f1b-1328-4d91-a442-4af340e29fe7",
+        "type": "yellow",
+        "minute": {
+          "minute": 90,
+          "added": 0
+        },
+        "playerId": "abc0d34c-5b92-4183-86f6-ffec8d9f552d",
+        "clubId": "3228311a-ed32-4961-b71a-dde51481c304"
+      }
+    ]
+  }
+]
