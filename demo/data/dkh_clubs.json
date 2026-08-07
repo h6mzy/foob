@@ -1,0 +1,42 @@
+[
+  {
+    "id": "CLE",
+    "name": "Clementi SC"
+  },
+  {
+    "id": "DHL",
+    "name": "DHL Express SG"
+  },
+  {
+    "id": "DKH",
+    "name": "Dark Horse FC"
+  },
+  {
+    "id": "ENT",
+    "name": "Entertainers"
+  },
+  {
+    "id": "FUR",
+    "name": "Fury Reds FC"
+  },
+  {
+    "id": "HIL",
+    "name": "Hilderinc FC"
+  },
+  {
+    "id": "HIT",
+    "name": "Hilderinc Twâ"
+  },
+  {
+    "id": "MAM",
+    "name": "Mammoth FC"
+  },
+  {
+    "id": "TRI",
+    "name": "Trinity FC"
+  },
+  {
+    "id": "UNI",
+    "name": "Unity FC"
+  }
+]
