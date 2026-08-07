@@ -1,0 +1,582 @@
+[
+  {
+    "time": "2026-06-07T15:00",
+    "competition": "PSF",
+    "venue": "Orchid Park Secondary School",
+    "home": "ENT",
+    "away": "DKH",
+    "score": [
+      3,
+      4
+    ],
+    "events": [
+      {
+        "id": 1,
+        "min": 8,
+        "eventType": "goal",
+        "for": "ENT",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 2,
+        "min": 10,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 3,
+        "min": 39,
+        "eventType": "goal",
+        "for": "ENT",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 4,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 5,
+        "min": 55,
+        "eventType": "goal",
+        "for": "ENT",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 6,
+        "min": 67,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 7,
+        "min": 71,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      }
+    ],
+    "result": "W"
+  },
+  {
+    "time": "2026-06-14T15:00",
+    "competition": "PSF",
+    "venue": "Orchid Park Secondary School",
+    "home": "DKH",
+    "away": "MAM",
+    "score": [
+      3,
+      3
+    ],
+    "events": [
+      {
+        "id": 1,
+        "min": 8,
+        "eventType": "goal",
+        "for": "MAM",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 2,
+        "min": 10,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 3,
+        "min": 39,
+        "eventType": "goal",
+        "for": "MAM",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 4,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 5,
+        "min": 55,
+        "eventType": "goal",
+        "for": "MAM",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 6,
+        "min": 67,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      }
+    ],
+    "result": "D"
+  },
+  {
+    "time": "2026-06-28T15:00",
+    "competition": "ACL",
+    "venue": "Anderson Secondary School",
+    "home": "DKH",
+    "away": "DHL",
+    "score": [
+      11,
+      3
+    ],
+    "events": [
+      {
+        "id": 1,
+        "min": 8,
+        "eventType": "goal",
+        "for": "DHL",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 2,
+        "min": 10,
+        "eventType": "goal",
+        "for": "DHL",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 3,
+        "min": 39,
+        "eventType": "goal",
+        "for": "DHL",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 4,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 5,
+        "min": 55,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 6,
+        "min": 67,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 7,
+        "min": 71,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 8,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 9,
+        "min": 55,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 10,
+        "min": 67,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 11,
+        "min": 71,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 12,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 13,
+        "min": 55,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 14,
+        "min": 67,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      }
+    ],
+    "result": "W"
+  },
+  {
+    "time": "2026-07-05T15:00",
+    "competition": "ACL",
+    "venue": "Anderson Secondary School",
+    "home": "DKH",
+    "away": "MAM",
+    "score": [
+      2,
+      2
+    ],
+    "events": [
+      {
+        "id": 1,
+        "min": 8,
+        "eventType": "goal",
+        "for": "MAM",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 2,
+        "min": 10,
+        "eventType": "goal",
+        "for": "MAM",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 3,
+        "min": 39,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 4,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      }
+    ],
+    "result": "D"
+  },
+  {
+    "time": "2026-07-12T15:00",
+    "competition": "MSF",
+    "venue": "St Patrick School",
+    "home": "TRI",
+    "away": "DKH",
+    "score": [
+      4,
+      1
+    ],
+    "events": [
+      {
+        "id": 1,
+        "min": 8,
+        "eventType": "goal",
+        "for": "TRI",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 2,
+        "min": 10,
+        "eventType": "goal",
+        "for": "TRI",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 3,
+        "min": 39,
+        "eventType": "goal",
+        "for": "TRI",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 4,
+        "min": 50,
+        "eventType": "goal",
+        "for": "TRI",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 5,
+        "min": 55,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      }
+    ],
+    "result": "L"
+  },
+  {
+    "time": "2026-07-18T15:00",
+    "competition": "ACL",
+    "venue": "Anderson Secondary School",
+    "home": "DKH",
+    "away": "CLE",
+    "score": [
+      5,
+      2
+    ],
+    "events": [
+      {
+        "id": 1,
+        "min": 8,
+        "eventType": "goal",
+        "for": "CLE",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 2,
+        "min": 10,
+        "eventType": "goal",
+        "for": "CLE",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 3,
+        "min": 39,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 4,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 5,
+        "min": 55,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 6,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 7,
+        "min": 55,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      }
+    ],
+    "result": "W"
+  },
+  {
+    "time": "2026-07-25T15:00",
+    "competition": "ACL",
+    "venue": "Anderson Secondary School",
+    "home": "HIT",
+    "away": "DKH",
+    "score": [
+      2,
+      6
+    ],
+    "events": [
+      {
+        "id": 1,
+        "min": 8,
+        "eventType": "goal",
+        "for": "HIT",
+        "scorer": "Edgar",
+        "assist": ""
+      },
+      {
+        "id": 2,
+        "min": 10,
+        "eventType": "goal",
+        "for": "HIT",
+        "scorer": "Edgar",
+        "assist": ""
+      },
+      {
+        "id": 3,
+        "min": 39,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": "Kye",
+        "assist": ""
+      },
+      {
+        "id": 4,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": "James",
+        "assist": "Vijay"
+      },
+      {
+        "id": 5,
+        "min": 55,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": "Hamzy",
+        "assist": "Vijay"
+      },
+      {
+        "id": 6,
+        "min": 67,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": "Vijay",
+        "assist": ""
+      },
+      {
+        "id": 7,
+        "min": 71,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": "Satish",
+        "assist": "Vijay"
+      },
+      {
+        "id": 8,
+        "min": 75,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": "Satish",
+        "assist": "Vijay"
+      }
+    ],
+    "result": "W"
+  },
+  {
+    "time": "2026-08-01T17:00",
+    "competition": "MSF",
+    "venue": "XCL Academy",
+    "home": "UNI",
+    "away": "DKH",
+    "score": [
+      1,
+      4
+    ],
+    "events": [
+      {
+        "id": 1,
+        "min": 8,
+        "eventType": "goal",
+        "for": "UNI",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 2,
+        "min": 10,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 3,
+        "min": 39,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 4,
+        "min": 50,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      },
+      {
+        "id": 5,
+        "min": 55,
+        "eventType": "goal",
+        "for": "DKH",
+        "scorer": null,
+        "assist": null
+      }
+    ],
+    "result": "W"
+  },
+  {
+    "time": "2026-08-16T15:00",
+    "competition": "ACL",
+    "venue": "Anderson Secondary School",
+    "home": "DKH",
+    "away": "FUR",
+    "score": [],
+    "events": [],
+    "result": null
+  },
+  {
+    "time": "2026-08-22T15:00",
+    "competition": "MSF",
+    "venue": "Anderson Secondary School",
+    "home": "HIL",
+    "away": "DKH",
+    "score": [],
+    "events": [],
+    "result": null
+  }
+]
