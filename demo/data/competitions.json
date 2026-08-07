@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ACL",
+    "name": "AFA Community League"
+  },
+  { 
+    "id": "MSF",
+    "name": "Mid-Season Friendly"
+  },
+  {
+    "id": "PSF",
+    "name": "Pre-Season Friendly"
+  }
+]
