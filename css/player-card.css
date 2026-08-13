@@ -1,0 +1,144 @@
+:root {
+  --foob-player-card-bg: #222;
+  --foob-player-card-name: #fff;
+  --foob-player-card-muted: #aaa;
+  --foob-player-card-number: gold;
+  --foob-player-card-padding: 6cqw;
+  --foob-player-card-radius: 6cqw;
+}
+
+.foob-player-article {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  container: foob-player-article / size;
+}
+
+.foob-player-card {
+  width: 100%;
+  aspect-ratio: 5 / 7;
+  background: var(--foob-player-card-bg);
+  position: relative;
+  line-height: 0;
+  border: 1px solid transparent;
+  border-radius: var(--foob-player-card-radius);
+  overflow: hidden;
+  box-shadow: 2cqw 2cqw 2cqw rgba(0,0,0,.2);
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  container: foob-player-card / size;
+}
+
+.foob-player-card.fluid-ht {
+  aspect-ratio: unset;
+  width: clamp(100px, 100%, 500px);
+  height: clamp(140px, 100%, 700px);
+} 
+
+.foob-player-card:has(.captain) {
+  border-color: var(--foob-player-card-number);
+}
+
+.foob-player-card-club {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 2cqw;
+  padding: var(--foob-player-card-padding) 0 0 var(--foob-player-card-padding);
+}
+
+.foob-player-card-number {
+  color: var(--foob-player-card-number);
+  font-size: 40cqw;
+  font-weight: bold;
+  line-height: 1;
+  z-index: 0;
+}
+
+.foob-player-card-logo {
+  width: 18cqw;
+  height: 18cqw;
+  object-fit: contain;
+  z-index: 1;
+}
+
+.foob-player-card-image {
+  display: contents;
+}
+
+.foob-player-card-info {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: .5cqw;
+  padding-right: 8cqw;
+  font-size: 12cqw;
+  text-transform: uppercase;
+  line-height: 1;
+  background: linear-gradient(transparent, rgba(0,0,0,.7));
+  padding: var(--foob-player-card-padding);
+  z-index: 1;
+}
+
+.foob-player-card-name {
+  color: var(--foob-player-card-name);
+  font-size: 18cqw;
+  font-weight: bold;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.foob-player-card-position {
+  color: var(--foob-player-card-muted);
+}
+
+.foob-player-card-image img {
+  width: 100%;
+  height: 90%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  object-fit: cover;
+  object-position: 50% 0;
+  z-index: 0;
+}
+
+.foob-player-card-label {
+  background: var(--foob-player-card-bg);
+  color: #fff;
+  fill: currentColor;
+  padding: 3cqw var(--foob-player-card-padding);
+  font-size: 8cqw;
+  line-height: 1;
+  text-transform: uppercase;
+  white-space: nowrap;
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  z-index: 2;
+  transform: rotateZ(-90deg);
+  transform-origin: left bottom;
+}
+
+.captain {
+  background: var(--foob-player-card-number);
+  color: var(--foob-player-card-bg);
+}
+
+.injured {
+  background: coral;
+}
+
+.suspended {
+  background: crimson;
+}
+
+.on.loan {
+  background: #000;
+}
+.awol {
+  background: #fff;
+  color: #000;
+}
