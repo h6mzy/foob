@@ -1,6 +1,5 @@
 :root {
   --foob-club-card-bg: #222;
-  --foob-club-card-name: #fff;
   --foob-club-card-padding: 6cqw;
   --foob-club-card-radius: 6cqw;
 }
@@ -24,9 +23,6 @@
   border-radius: var(--foob-club-card-radius);
   overflow: hidden;
   box-shadow: 2cqw 2cqw 2cqw rgba(0,0,0,.2);
-  display: flex;
-  flex-flow: column nowrap;
-  justify-content: stretch;
   padding: var(--foob-club-card-padding);
   container: foob-club-card / size;
 }
@@ -43,14 +39,7 @@
 
 .foob-club-card-logo img {
   width: 100%;
+  height: 100%;
   object-fit: contain;
-  flex: 1;
-}
-
-.foob-club-card-name {
-  color: var(--foob-club-card-name);
-  fill: var(--foob-club-card-name);
-  font-weight: bold;
-  line-height: 1;
-  z-index: 1;
+  overflow: hidden;
 }
