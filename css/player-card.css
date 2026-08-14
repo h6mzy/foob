@@ -36,7 +36,23 @@
   aspect-ratio: unset;
   width: clamp(100px, 100%, 500px);
   height: clamp(140px, 100%, 700px);
-} 
+}
+
+.foob-player-card.fluid-ht .foob-player-card-number {
+  font-size: min(40cqw, 30cqh);
+}
+
+.foob-player-card.fluid-ht .foob-player-card-logo {
+  width: min(18cqw, 14cqh);
+  height: min(18cqw, 14cqh);
+}
+
+.foob-player-card-logo {
+  width: 18cqw;
+  height: 18cqw;
+  object-fit: contain;
+  z-index: 1;
+}
 
 .foob-player-card:has(.captain) {
   border-color: var(--foob-player-card-number);
