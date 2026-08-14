@@ -1,0 +1,56 @@
+:root {
+  --foob-club-card-bg: #222;
+  --foob-club-card-name: #fff;
+  --foob-club-card-padding: 6cqw;
+  --foob-club-card-radius: 6cqw;
+}
+
+.foob-club-article {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  container: foob-club-article / size;
+}
+
+.foob-club-card {
+  width: 100%;
+  aspect-ratio: 5 / 7;
+  background: var(--foob-club-card-bg);
+  position: relative;
+  line-height: 0;
+  border: 1px solid transparent;
+  border-radius: var(--foob-club-card-radius);
+  overflow: hidden;
+  box-shadow: 2cqw 2cqw 2cqw rgba(0,0,0,.2);
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: stretch;
+  padding: var(--foob-club-card-padding);
+  container: foob-club-card / size;
+}
+
+.foob-club-card.fluid-ht {
+  aspect-ratio: unset;
+  width: clamp(50px, 100%, 500px);
+  height: clamp(70px, 100%, 700px);
+}
+
+.foob-club-card-logo {
+  display: contents;
+}
+
+.foob-club-card-logo img {
+  width: 100%;
+  object-fit: contain;
+  flex: 1;
+}
+
+.foob-club-card-name {
+  color: var(--foob-club-card-name);
+  fill: var(--foob-club-card-name);
+  font-weight: bold;
+  line-height: 1;
+  z-index: 1;
+}
