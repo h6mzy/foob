@@ -118,6 +118,7 @@
   background: var(--foob-player-card-bg);
   color: #fff;
   fill: currentColor;
+  border-top-right-radius: var(--foob-player-card-radius);
   padding: 3cqw var(--foob-player-card-padding);
   font-size: 8cqw;
   line-height: 1;
