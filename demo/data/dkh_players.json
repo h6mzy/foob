@@ -1,190 +1,146 @@
 [
   {
     "id": 1,
-    "name": "Howe Yuan",
-    "description_html": "
-      THE HUMAN COIN TOSS
-      \nOn his day, he’s fucking Neuer. Pulls off saves that make you question the laws of physics, screams at defenders like he’s captaining Real Madrid, and somehow turns into a brick wall whenever the opposition gets within 20 yards. 10/10. Unplayable. Absolute monster.</p>
-      \nUnfortunately, his “day” occurs approximately once every three months.
-      \nThe other 89 days, he’s a fucking liability. Near post? Free.
-      \nCross coming in? Hope for the best.
-      \nBall rolling slowly towards him? Genuinely 50/50.
-      \nYou never know which goalkeeper is turning up. Could be prime Buffon. Could be a bloke who has just discovered what gloves are.
-      \nRating: 10/10 if switched on.
-      \nRating: 1/10 if he woke up on the wrong side of the bed.
-      \nOverall: 5/10 — statistically impossible to trust.
-    "
+    "pos": "GOAL",
+    "name": "Ilham",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/img/1.webp",
+    "description_html": "THE HUMAN COIN TOSS\nOn his day, he’s fucking Kahn. Other days? Karius.\nOverall: 5/10 — statistically impossible to trust."
   },
   {
-    "id": 69,
-    "name": "Fendy",
-    "description": "THE FUCKING BOUNCER
-
-You don't beat this man. You negotiate with him.
-
-Fierce, reliable, and built like someone accidentally left a refrigerator in the gym for 15 years. He doesn't defend space — he defends territory. If you have the ball, congratulations. You now have approximately three seconds to reconsider your life choices.
-
-No fancy shit. No unnecessary nonsense. Just win the fucking ball, flatten the attack, and get everyone organised.
-
-When the team starts falling apart, he's the one shouting, pointing, dragging everyone back into position and reminding the rest of us that apparently we're supposed to be playing football.
-
-Tackles like he's collecting debts.
-
-Heads crosses like they're personal insults.
-
-And if someone thinks they're going to bully one of our smaller players, they get introduced to the fucking consequences.
-
-The best part? You know exactly what you're getting every week.
-
-No mood swings.
-No disappearing acts.
-No 'my hamstring feels a bit tight.'
-
-Just 90 minutes of violence, organisation and absolutely zero fucking nonsense.
-
-Rating: 9/10
-Reliability: 11/10
-Passing: We'll discuss that another day.
-Leadership: Fucking enormous.
-Opposition strikers: Strongly advised to seek alternative employment."
+    "id": 2,
+    "pos": "DEFENCE",
+    "name": "Kye",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/2.webp"
   },
   {
-    "id": 8,
-    "description": "THE RETIRED PROFESSOR
-
-Once upon a time, this man owned the midfield.
-
-Vision? Fucking ridiculous.
-Technique? Silky as shit.
-Football brain? Still operating several levels above everyone else.
-
-Unfortunately, somewhere along the way, his legs submitted their resignation.
-
-He can still pick a pass that makes everyone else look like they've never seen a football before. He'll receive the ball under pressure, casually turn out of trouble and thread a 40-yard pass through the eye of a fucking needle.
-
-Then he'll immediately look like he's been asked to run home from Malaysia.
-
-15 minutes? World class.
-30 minutes? Concerning.
-45 minutes? Medical negligence.
-90 minutes? Someone call his family.
-
-Former captain, and you can still see it. He organises, demands the ball, tells everyone where to stand and occasionally produces a moment of pure class that reminds you why he wore the armband.
-
-But once the lungs start screaming and the legs stop cooperating, the captaincy disappears and you're basically watching a very talented statue pointing at people.
-
-He's not slow.
-
-He's strategically stationary.
-
-Rating: 9/10 for football ability
-Legs: 2/10
-Stamina: Fucking fictional
-Football IQ: 11/10
-Maximum operating time: 15 minutes
-Captaincy: Formerly elite
-Current status: A Rolls-Royce with no petrol."
-  },
-  {
-    "id": 6,
-    "description": "THE SILENT EXECUTIONER
-
-Doesn't talk much.
-
-Doesn't need to.
-
-He just fucking appears, wins the ball, and leaves someone wondering where their attack went.
-
-100/100 every time. No mood. No excuses. No bullshit. You know exactly what you're getting when he walks onto that pitch: 90 minutes of quiet fucking destruction.
-
-He doesn't make flashy tackles because he doesn't need to. He reads the game, steps in at exactly the right moment and takes the ball off you like you fucking owed it to him.
-
-Try to dribble past him?
-
-No.
-
-Try to play through him?
-
-Absolutely fucking not.
-
-Try to shield the ball?
-
-Enjoy discovering how quickly a grown man can lose possession.
-
-He'll win the ball, make the simple pass and quietly reset the entire midfield while everyone else is busy running around like fucking lunatics.
-
-No celebrations.
-No chest beating.
-No unnecessary shit.
-
-Just win. The. Ball.
-
-And if someone decides to leave one on our player?
-
-That's when you remember he's been quiet because he's been saving his words for the tackle.
-
-Rating: 100/100
-Consistency: Fucking ridiculous
-Noise: 2/100
-Destruction: 100/100
-Bullshit tolerance: 0/100
-Opposition midfielders: Strongly advised to keep their heads up."
+    "id": 3,
+    "pos": "STRIKER",
+    "name": "Louis",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/3.webp"
   },
   {
     "id": 4,
-    "description": "THE BOSS
-
-Once upon a time, there may have been a footballer in there.
-
-May have been.
-
-Now playing up front purely because nobody has the balls to tell the manager he should probably be somewhere else.
-
-Movement? Questionable.
-Finishing? Don't fucking ask.
-Pace? Classified information.
-First touch? Frequently files a missing-person report.
-
-He'll spend 15 minutes standing between two defenders, receive the ball, lose it immediately, then turn around and explain to everyone else exactly what they did wrong.
-
-And somehow, despite producing absolutely fuck all in front of goal, he's still the manager.
-
-Which means every terrible decision is now officially a tactical decision.
-
-Misses an open goal?
-
-'I was testing the keeper.'
-
-Gets caught offside?
-
-'Part of the system.'
-
-Substitutes himself?
-
-'Managing my minutes.'
-
-Gets absolutely rinsed by a 19-year-old winger?
-
-'I was tracking the runner.'
-
-Nobody knows what the fuck he's talking about, but he's got the clipboard, so apparently we have to respect it.
-
-The funniest part is that he'll spend the entire match screaming instructions from the front while contributing approximately three metres of movement per half.
-
-But fair play — he did pick the team.
-
-He did choose the formation.
-
-And, most importantly...
-
-He picked himself.
-
-Rating: 3/10
-Managerial authority: 10/10
-Footballing ability: Formerly suspected
-Movement: Optional
-Goals: Fucking theoretical
-Tactical genius: Depends who you ask
-Reason he's still starting: Because he's the fucking manager."
+    "pos": "STRIKER",
+    "name": "Derrick",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/4.webp",
+    "description_html": "THE BOSS\nOnce upon a time, there may have been a footballer in there.\nNow playing up front purely because nobody has the balls to tell the manager he should probably be somewhere else."
+  },
+  {
+    "id": 5,
+    "pos": "DEFENCE",
+    "name": "Alvin",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/5.webp"
+  },
+  {
+    "id": 6,
+    "pos": "MIDFIELD",
+    "name": "Hamzy",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/6.webp",
+    "description_html": "THE SILENT EXECUTIONER\nDoesn't talk much. Doesn't need to."
+  },
+  {
+    "id": 7,
+    "pos": "MIDFIELD",
+    "name": "Satish",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/7.webp"
+  },
+  {
+    "id": 8,
+    "pos": "MIDFIELD",
+    "name": "Daryl",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/8.webp",
+    "description_html": "THE RETIRED PROFESSOR\nHe can still pick a pass that makes everyone else look like they've never seen a football before.\n15 minutes? World class.\n30 minutes? Concerning.\n45 minutes? Medical negligence.\n90 minutes? Someone call his family.Overall 9/10 for football ability"
+  },
+  {
+    "id": 9,
+    "pos": "STRIKER",
+    "name": "Vijay",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/9.webp",
+    "description_html": "GOAL MACHINE\nGoals. Goals. More goals."
+  },
+  {
+    "id": 10,
+    "pos": "STRIKER",
+    "name": "James",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/10.webp"
+  },
+  {
+    "id": 11,
+    "pos": "MIDFIELD",
+    "name": "Nori",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/11.webp"
+  },
+  {
+    "id": 13,
+    "pos": "DEFENCE",
+    "name": "Mark G",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/13.webp"
+  },
+  {
+    "id": 14,
+    "pos": "MIDFIELD",
+    "name": "Galen",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/14.webp"
+  },
+  {
+    "id": 15,
+    "pos": "MIDFIELD",
+    "name": "Mark Y",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/15.webp"
+  },
+  {
+    "id": 16,
+    "pos": "DEFENCE",
+    "name": "Kaisheng",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/16.webp"
+  },
+  {
+    "id": 17,
+    "pos": "DEFENCE",
+    "name": "Kelvin",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/17.webp"
+  },
+  {
+    "id": 19,
+    "pos": "MIDFIELD",
+    "name": "Rico",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/19.webp"
+  },
+  {
+    "id": 27,
+    "pos": "DEFENCE",
+    "name": "Tim",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/27.webp"
+  },
+  {
+    "id": 30,
+    "pos": "GOAL",
+    "name": "Ali",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/30.webp"
+  },
+  {
+    "id": 44,
+    "pos": "DEFENCE",
+    "name": "Calvin",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/44.webp"
+  },
+  {
+    "id": 69,
+    "pos": "DEFENCE",
+    "name": "Fendi",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/69.webp",
+    "description_html": "THE ROCK\nJust 90 minutes of violence, organisation and absolutely zero fucking nonsense.\nOverall: 9/10"
+  },
+  {
+    "id": 88,
+    "pos": "DEFENCE",
+    "name": "JC",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/88.webp"
+  },
+  {
+    "id": 90,
+    "pos": "DEFENCE",
+    "name": "Keith",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/h6mzy/foob@0.2.0/demo/img/90.webp"
   }
 ]
