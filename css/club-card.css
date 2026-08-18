@@ -29,8 +29,8 @@
 
 .foob-club-card.fluid-ht {
   aspect-ratio: unset;
-  width: clamp(50px, 100%, 500px);
-  height: clamp(70px, 100%, 700px);
+  width: clamp(25px, 100%, 500px);
+  height: clamp(35px, 100%, 700px);
 }
 
 .foob-club-card-logo {
