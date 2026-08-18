@@ -1,0 +1,121 @@
+:root {
+  --foob-nm-bg: #000;
+  --foob-nm-club: #fff;
+  --foob-nm-competition: #aaa;
+  --foob-nm-partners: #aaa;
+  --foob-nm-time: #fff;
+  --foob-nm-finished: #aaa;
+  --foob-nm-unit: #aaa;
+  --foob-nm-gap-sm: .5rem;
+  --foob-nm-gap: 1rem;
+  --foob-nm-gap-lg: 2rem;
+  --foob-nm-text-sm: .8rem;
+  --foob-nm-text: 1.2rem;
+  --foob-nm-text-lg: 2rem;
+  --foob-nm-countdown: 40px;
+  --foob-nm-logo: clamp(20px, 12dvw, 30px);
+}
+
+.foob-nm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--foob-nm-gap-lg);
+  padding: var(--foob-nm-gap);
+  background: var(--foob-nm-bg);
+  text-transform: uppercase;
+}
+
+#foob-nm {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  gap: var(--foob-nm-gap-sm) var(--foob-nm-gap-lg);
+}
+
+.foob-nm-opponent {
+  display: flex;
+  align-items: center;
+  gap: var(--foob-nm-gap-sm);
+  line-height: 1;
+}
+
+.foob-nm-club {
+  font-size: var(--foob-nm-text);
+  color: var(--foob-nm-club);
+  margin-right: var(--foob-nm-gap-sm);
+}
+
+.foob-nm-competition {
+  color: var(--foob-nm-competition);
+  font-size: var(--foob-nm-text-sm);
+}
+
+.foob-nm-logo {
+  width: var(--foob-nm-logo);
+  height: var(--foob-nm-logo);
+  border-radius: 50%;
+  flex: none;
+  overflow: hidden;
+}
+
+.foob-nm-timer {
+  gap: var(--foob-nm-gap);
+  font-size: var(--foob-nm-text-lg);
+  width: calc(var(--foob-nm-gap) * 3 + 2ch * 4);
+  display: flex;
+  justify-content: center;
+}
+
+.foob-nm-timer > div {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  gap: 0;
+}
+
+.foob-nm-num {
+  color: var(--foob-nm-time);
+  font-weight: bold;
+  width: 2ch;
+  display: flex;
+}
+
+.finished .foob-nm-num {
+  color: var(--foob-nm-finished);
+}
+
+.foob-nm-unit {
+  color: var(--foob-nm-unit);
+  font-size: var(--foob-nm-text-sm);
+}
+
+.foob-nm-partners {
+  color: var(--foob-nm-partners);
+  font-size: var(--foob-nm-text-sm);
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: flex-end;
+  gap: var(--foob-nm-gap-sm);
+  flex: 0;
+  line-height: 1;
+}
+
+#foob-nm-partners {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--foob-nm-gap);
+}
+
+.foob-nm-partner img {
+  width: clamp(30px, 100%, 80px);
+}
+
+@media screen and (min-width: 481px) {
+  #foob-nm {
+    flex-flow: row wrap;
+    flex: 1;
+  }
+}
