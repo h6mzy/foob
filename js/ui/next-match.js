@@ -1,6 +1,6 @@
 import { Countdown } from 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.3/js/index.js';
 
-export function renderNextMatch(match, partners, id) {
+function renderNextMatch(match, partners, id) {
   if (!match || !id) return;
 
   // main element
@@ -89,6 +89,8 @@ export function renderNextMatch(match, partners, id) {
   // start countdown
   renderCountdown(match);
 };
+
+export default NextMatch;
 
 const createUnit = (key, label) => {
   const wrapper = document.createElement('div');
