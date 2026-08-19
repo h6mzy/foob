@@ -1,17 +1,17 @@
 :root {
   --foob-nm-bg: #000;
-  --foob-nm-club: #fff;
-  --foob-nm-competition: #aaa;
-  --foob-nm-partners: #aaa;
-  --foob-nm-time: #fff;
-  --foob-nm-finished: #aaa;
-  --foob-nm-unit: #aaa;
-  --foob-nm-gap-sm: .5rem;
-  --foob-nm-gap: 1rem;
-  --foob-nm-gap-lg: 2rem;
-  --foob-nm-text-sm: .8rem;
-  --foob-nm-text: 1.2rem;
-  --foob-nm-text-lg: 2rem;
+  --foob-nm-club: var(--foob-c-text);
+  --foob-nm-competition: var(--foob-c-weak);
+  --foob-nm-partners: var(--foob-c-weak);
+  --foob-nm-time: var(--foob-c-text);
+  --foob-nm-finished: var(--foob-c-weak);
+  --foob-nm-unit: var(--foob-c-weak);
+  --foob-nm-gap-sm: var(--foob-gap-sm);
+  --foob-nm-gap: var(--foob-gap);
+  --foob-nm-gap-lg: var(--foob-gap-lg);
+  --foob-nm-text-sm: var(--foob-text-sm);
+  --foob-nm-text: var(--foob-text);
+  --foob-nm-text-lg: var(--foob-text-lg);
   --foob-nm-countdown: 40px;
   --foob-nm-logo: clamp(20px, 12dvw, 30px);
 }
@@ -65,20 +65,19 @@
   width: calc(var(--foob-nm-gap) * 3 + 2ch * 4);
   display: flex;
   justify-content: center;
-}
-
-.foob-nm-timer > div {
-  display: flex;
-  flex-flow: column nowrap;
-  align-items: center;
-  gap: 0;
+  
+  > div {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    gap: 0;
+  }
 }
 
 .foob-nm-num {
   color: var(--foob-nm-time);
   font-weight: bold;
   width: 2ch;
-  display: flex;
 }
 
 .finished .foob-nm-num {
