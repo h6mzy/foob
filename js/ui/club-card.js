@@ -1,32 +1,16 @@
+import { createElement, createImg } from '../index.js'; 
+
 function ClubCard({
   id = 'RDM',
   logo = 'https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/DKH.svg',
   fluidHeight = false
 } = {}) {
-  const article = document.createElement('article');
-  article.className = 'foob-club-article';
-
-  const card = document.createElement('div');
-  card.className = 'foob-club-card';
-  
-  if (fluidHeight) {
-    card.classList.add('fluid-ht');
-  }
-
-  // Club image
-  const logoWrap = document.createElement('div');
-  logoWrap.className = 'foob-club-card-logo';
-
-  const clubLogo = document.createElement('img');
-  clubLogo.src = logo;
-  clubLogo.alt = name;
-  clubLogo.decoding = 'async';
-
-  logoWrap.append(clubLogo);
-  
-  card.append(logoWrap);
+  const article = createElement('article', { className: 'foob-club-article' });
+  const card = createElement('div', { className: 'foob-club-card' });
+  if (fluidHeight) card.classList.add('fluid-ht');
+  const logo = createImg(logo, name, 'foob-club-card-logo');
+  card.append(logo);
   article.append(card);
-
   return article;
 };
 
