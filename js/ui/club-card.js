@@ -8,8 +8,8 @@ function ClubCard({
   const article = createElement('article', { className: 'foob-club-article' });
   const card = createElement('div', { className: 'foob-club-card' });
   if (fluidHeight) card.classList.add('fluid-ht');
-  const logo = createImg(logo, name, 'foob-club-card-logo');
-  card.append(logo);
+  const logoEl = createImg(logo, name, 'foob-club-card-logo');
+  card.append(logoEl);
   article.append(card);
   return article;
 };
