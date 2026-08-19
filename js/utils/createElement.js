@@ -1,4 +1,4 @@
-export const createEl = (element, props = {}) => {
+export const createElement = (element, props = {}) => {
   const el = document.createElement(element);
   for (const [key, value] of Object.entries(props)) {
     if (key === 'dataset') Object.assign(el.dataset, value);
