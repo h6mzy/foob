@@ -1,8 +1,8 @@
 :root {
   --foob-player-card-bg: #222;
-  --foob-player-card-name: #fff;
-  --foob-player-card-muted: #aaa;
-  --foob-player-card-number: gold;
+  --foob-player-card-name: var(--foob-c-text);
+  --foob-player-card-muted: var(--foob-c-weak);
+  --foob-player-card-number: var(--foob-c-primary);
   --foob-player-card-padding: 6cqw;
   --foob-player-card-radius: 6cqw;
 }
@@ -36,19 +36,19 @@
   aspect-ratio: unset;
   width: clamp(25px, 100%, 500px);
   height: clamp(35px, 100%, 700px);
-}
-
-.foob-player-card.fluid-ht .foob-player-card-number {
-  font-size: min(40cqw, 30cqh);
-}
-
-.foob-player-card.fluid-ht .foob-player-card-logo {
-  width: min(18cqw, 14cqh);
-  height: min(18cqw, 14cqh);
-}
-
-.foob-player-card:has(.captain) {
-  border-color: var(--foob-player-card-number);
+  
+  .foob-player-card-number {
+    font-size: min(40cqw, 30cqh);
+  }
+  
+  .foob-player-card-logo {
+    width: min(18cqw, 14cqh);
+    height: min(18cqw, 14cqh);
+  }
+  
+  &:has(.captain) {
+    border-color: var(--foob-player-card-number);
+  }
 }
 
 .foob-player-card-club {
@@ -75,6 +75,17 @@
 
 .foob-player-card-image {
   display: contents;
+  
+  img {
+    width: 100%;
+    height: 90%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    object-fit: cover;
+    object-position: 50% 0;
+    z-index: 0;
+  }
 }
 
 .foob-player-card-info {
@@ -101,17 +112,6 @@
 
 .foob-player-card-position {
   color: var(--foob-player-card-muted);
-}
-
-.foob-player-card-image img {
-  width: 100%;
-  height: 90%;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  object-fit: cover;
-  object-position: 50% 0;
-  z-index: 0;
 }
 
 .foob-player-card-label {
