@@ -1,7 +1,9 @@
 [
   {
-    "id": "OWL",
+    "id": "019c5c75-4f5d-7c21-b8a4-5f1e92d73c06",
+    "abbr": "OWL"
     "name": "Owlwait",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/OWL_r.svg",
     "url": "https://www.owlwait.com"
   }
 ]
