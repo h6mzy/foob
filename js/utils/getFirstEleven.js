@@ -8,7 +8,7 @@ import { pickRandom } from 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.8/js/ind
 export function getFirstEleven(players, clubMatchData, sort = 'c') {
   const [d, m, f] = clubMatchData.formation.split('').map(Number);
 
-  const grouped = groupByPostition(players);
+  const grouped = groupByPosition(players);
 
   const firstEleven = clubMatchData.lineup
     ? players.filter(p => clubMatchData.firstEleven.includes(p.number))
