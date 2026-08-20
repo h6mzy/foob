@@ -1,4 +1,4 @@
-export function getPlayers(players) {
+export function groupByPosition(players) {
   const grouped = { goal: [], defence: [], midfield: [], forward: [] };
 
   players.forEach(player => {
