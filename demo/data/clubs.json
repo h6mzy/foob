@@ -15,7 +15,12 @@
     "id": "01a01d9b-2fe1-7e55-a784-239c412daa5d",
     "abbr": "DKH",
     "name": "Dark Horse FC",
-    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/DKH.svg"
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/DKH.svg",
+    "partners": [
+      {
+        "abbr": "OWL"
+      }
+    ]
   },
   {
     "id": "01a01d9b-2fe1-74e6-aad6-835f4d9795cf",
