@@ -1,21 +1,31 @@
 [
   {
-    "id": "ACL",
+    "id": "01a01d9c-ea7b-7481-9645-ba51eff90696",
+    "abbr": "ACC",
+    "name": "AFA Community Cup",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/ACC.svg"
+  },
+  {
+    "id": "01a01d9c-ea7b-77f7-81dc-18abe7dfa204",
+    "abbr": "ACL",
     "name": "AFA Community League",
     "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/ACL.svg"
   },
   {
-    "id": "ACC",
+    "id": "01a01d9c-ea7b-7481-9645-ba51eff90696",
+    "abbr": "ACC",
     "name": "AFA Community Cup",
     "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/ACC.svg"
   },
-  { 
-    "id": "MSF",
+  {
+    "id": "01a01d9c-ea7b-7e02-b918-2ac9bda5f255",
+    "abbr": "MSF",
     "name": "Mid-Season Friendly",
     "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/MSF.svg"
   },
   {
-    "id": "PSF",
+    "id": "01a01d9c-ea7b-74af-93eb-fd486b6cb096",
+    "abbr": "PSF",
     "name": "Pre-Season Friendly",
     "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/PSF.svg"
   }
