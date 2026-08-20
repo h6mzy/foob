@@ -1,14 +1,22 @@
 [
   {
     "id": "ACL",
-    "name": "AFA Community League"
+    "name": "AFA Community League",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/ACL.svg"
+  },
+  {
+    "id": "ACC",
+    "name": "AFA Community Cup",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/ACC.svg"
   },
   { 
     "id": "MSF",
-    "name": "Mid-Season Friendly"
+    "name": "Mid-Season Friendly",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/MSF.svg"
   },
   {
     "id": "PSF",
-    "name": "Pre-Season Friendly"
+    "name": "Pre-Season Friendly",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/PSF.svg"
   }
 ]
