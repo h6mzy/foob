@@ -1,62 +1,62 @@
 [
   {
-    "id": "806ecbdf-789e-45e6-8c7d-54e306aa9d60",
-    "name": "Ashfield Town",
-    "abbr": "AST",
-    "logoURL": "",
-    "rating": 79,
-    "defence": 78,
-    "attack": 81,
-    "aggression": 40
+    "id": "01a01d9b-2fe1-7000-90d0-00834ce9a877",
+    "abbr": "CLE",
+    "name": "Clementi SC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/CLE.svg"
   },
   {
-    "id": "3228311a-ed32-4961-b71a-dde51481c304",
-    "name": "Westhaven FC",
-    "abbr": "WHF",
-    "logoURL": "",
-    "rating": 74,
-    "defence": 74,
-    "attack": 76,
-    "aggression": 72
+    "id": "01a01d9b-2fe1-7830-ad1c-50774747af96",
+    "abbr": "DHL",
+    "name": "DHL Express SG",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/DHL.svg"
   },
   {
-    "id": "ea67f2fe-d3fd-4095-80a6-f66622022dec",
-    "name": "Oakridge United",
-    "abbr": "ORU",
-    "logoURL": "",
-    "rating": 66,
-    "defence": 69,
-    "attack": 64,
-    "aggression": 61
+    "id": "01a01d9b-2fe1-7e55-a784-239c412daa5d",
+    "abbr": "DKH",
+    "name": "Dark Horse FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/DKH.svg"
   },
   {
-    "id": "99d1a6f3-1c47-413d-aba8-3d202e398bc1",
-    "name": "Stonebridge Athletic",
-    "abbr": "SBA",
-    "logoURL": "",
-    "rating": 84,
-    "defence": 78,
-    "attack": 90,
-    "aggression": 64
+    "id": "01a01d9b-2fe1-74e6-aad6-835f4d9795cf",
+    "abbr": "ENT",
+    "name": "Entertainers",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/ENT.svg"
   },
   {
-    "id": "656db215-8164-4b10-a43d-a86ee907f5db",
-    "name": "Harbour City",
-    "abbr": "HBC",
-    "logoURL": "",
-    "rating": 86,
-    "defence": 88,
-    "attack": 84,
-    "aggression": 80
+    "id": "01a01d9b-2fe1-75ec-a123-c09844ecaf4d",
+    "abbr": "FUR",
+    "name": "Fury Reds FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/FUR.svg"
   },
   {
-    "id": "b57280c9-dca5-463a-b4e3-007ddde4f126",
-    "name": "Kingsley Rovers",
-    "abbr": "KGR",
-    "logoURL": "",
-    "rating": 94,
-    "defence": 93,
-    "attack": 95,
-    "aggression": 24
+    "id": "01a01d9b-2fe1-7389-92f6-8dd64a13acf2",
+    "abbr": "HIL",
+    "name": "Hilderinc FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/HIL.svg"
+  },
+  {
+    "id": "01a01d9b-2fe1-7502-9ae3-6a504c9eb67a",
+    "abbr": "HIT",
+    "name": "Hilderinc Twâ",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/HIT.svg"
+  },
+  {
+    "id": "01a01d9b-2fe1-723c-8894-30534da19481",
+    "abbr": "MAM",
+    "name": "Mammoth FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/MAM.svg"
+  },
+  {
+    "id": "01a01d9b-2fe1-7ba1-ab1a-881f4ee3b320",
+    "abbr": "TRI",
+    "name": "Trinity FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/TRI.svg"
+  },
+  {
+    "id": "01a01d9b-2fe1-72f1-b3de-6fc14e53b818",
+    "abbr": "UNI",
+    "name": "Unity FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/UNI.svg"
   }
 ]
