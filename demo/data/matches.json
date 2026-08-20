@@ -109,7 +109,7 @@
       "formation": "352",
       "firstEleven": [1, 27, 69, 90, 6, 3, 11, 19, 7, 4, 9],
       "matchCaptain": 9,
-      "unavailable": [,
+      "unavailable": [
         { "number": 0, "reason": "Unavailable" },
         { "number": 13, "reason": "Unavailable" },
         { "number": 17, "reason": "Injured" },
