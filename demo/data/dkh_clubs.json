@@ -1,42 +1,62 @@
 [
   {
     "id": "CLE",
-    "name": "Clementi SC"
+    "abbr": "CLE",
+    "name": "Clementi SC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/CLE.svg"
   },
   {
     "id": "DHL",
-    "name": "DHL Express SG"
+    "abbr": "DHL",
+    "name": "DHL Express SG",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/DHL.svg"
   },
   {
     "id": "DKH",
-    "name": "Dark Horse FC"
+    "abbr": "DKH",
+    "name": "Dark Horse FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/DKH.svg"
   },
   {
     "id": "ENT",
-    "name": "Entertainers"
+    "abbr": "ENT",
+    "name": "Entertainers",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/ENT.svg"
   },
   {
     "id": "FUR",
-    "name": "Fury Reds FC"
+    "abbr": "FUR",
+    "name": "Fury Reds FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/FUR.svg"
   },
   {
     "id": "HIL",
-    "name": "Hilderinc FC"
+    "abbr": "HIL",
+    "name": "Hilderinc FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/HIL.svg"
   },
   {
     "id": "HIT",
-    "name": "Hilderinc Twâ"
+    "abbr": "HIT",
+    "name": "Hilderinc Twâ",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/HIT.svg"
   },
   {
     "id": "MAM",
-    "name": "Mammoth FC"
+    "abbr": "MAM",
+    "name": "Mammoth FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/MAM.svg"
   },
   {
     "id": "TRI",
-    "name": "Trinity FC"
+    "abbr": "TRI",
+    "name": "Trinity FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/TRI.svg"
   },
   {
     "id": "UNI",
-    "name": "Unity FC"
+    "abbr": "UNI",
+    "name": "Unity FC",
+    "logo": "https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/UNI.svg"
   }
 ]
