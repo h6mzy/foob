@@ -1,7 +1,7 @@
 [
   {
     "id": "019b8e31-4a72-7c15-8d43-6f21e9b50a88",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 0,
     "position": "Midfield",
     "name": "Nino",
@@ -11,7 +11,7 @@
   },
   {
     "id": "019b8e31-4a72-7c15-8d43-6f21e9b50a87",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 1,
     "position": "Goal",
     "name": "Ilham",
@@ -21,7 +21,7 @@
   },
   {
     "id": "019b8e31-4a72-7d82-91c7-3e56b0a81429",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 2,
     "position": "Defence",
     "name": "Kye",
@@ -30,7 +30,7 @@
   },
   {
     "id": "019b8e31-4a72-7e43-a6b1-8c92d5f03716",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 3,
     "position": "Forward",
     "name": "Louis",
@@ -39,7 +39,7 @@
   },
   {
     "id": "019b8e31-4a72-7f64-83d5-2a71c9e40658",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 4,
     "position": "Forward",
     "name": "Derrick",
@@ -49,7 +49,7 @@
   },
   {
     "id": "019b8e31-4a73-7045-9b28-7d14e6c50391",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 5,
     "position": "Defence",
     "name": "Alvin",
@@ -58,7 +58,7 @@
   },
   {
     "id": "019b8e31-4a73-7166-87a4-5c92f0e31827",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 6,
     "position": "Midfield",
     "name": "Hamzy",
@@ -68,7 +68,7 @@
   },
   {
     "id": "019b8e31-4a73-7287-a1d9-6e35b407c852",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 7,
     "position": "Midfield",
     "name": "Satish",
@@ -77,7 +77,7 @@
   },
   {
     "id": "019b8e31-4a73-73a8-8f52-1c97d6e40534",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 8,
     "position": "Midfield",
     "name": "Daryl",
@@ -87,7 +87,7 @@
   },
   {
     "id": "019b8e31-4a73-74c9-95b3-72e1a406d587",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 9,
     "position": "Forward",
     "name": "Vijay",
@@ -97,7 +97,7 @@
   },
   {
     "id": "019b8e31-4a73-75ea-8c61-4d92b705f318",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 10,
     "position": "Forward",
     "name": "James",
@@ -106,7 +106,7 @@
   },
   {
     "id": "019b8e31-4a73-76fb-a7d4-91c305e68245",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 11,
     "position": "Midfield",
     "name": "Nori",
@@ -115,7 +115,7 @@
   },
   {
     "id": "019b8e31-4a73-770c-89e2-56b714d30968",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 13,
     "position": "Defence",
     "name": "Mark G",
@@ -124,7 +124,7 @@
   },
   {
     "id": "019b8e31-4a73-781d-9467-2f80c5e31497",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 14,
     "position": "Midfield",
     "name": "Galen",
@@ -133,7 +133,7 @@
   },
   {
     "id": "019b8e31-4a73-792e-a153-7c96d4f02861",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 15,
     "position": "Midfield",
     "name": "Mark Y",
@@ -142,7 +142,7 @@
   },
   {
     "id": "019b8e31-4a73-7a4f-8d72-3e15c609b824",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 16,
     "position": "Defence",
     "name": "Kaisheng",
@@ -151,7 +151,7 @@
   },
   {
     "id": "019b8e31-4a73-7b60-97c4-81e205d93647",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 17,
     "position": "Defence",
     "name": "Kelvin",
@@ -160,7 +160,7 @@
   },
   {
     "id": "019b8e31-4a73-7c81-a5e3-49d716b20852",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 19,
     "position": "Midfield",
     "name": "Rico",
@@ -169,7 +169,7 @@
   },
   {
     "id": "019b8e31-4a73-7da2-8b56-2c91e704d638",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 27,
     "position": "Defence",
     "name": "Tim",
@@ -178,7 +178,7 @@
   },
   {
     "id": "019b8e31-4a73-7eb3-96c1-75d408e21957",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 30,
     "position": "Goal",
     "name": "Ali",
@@ -187,7 +187,7 @@
   },
   {
     "id": "019b8e31-4a73-7fc4-a278-53d916e08431",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 44,
     "position": "Defence",
     "name": "Calvin",
@@ -196,7 +196,7 @@
   },
   {
     "id": "019b8e31-4a74-70d5-8e43-19c726b50862",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 69,
     "position": "Defence",
     "name": "Fendi",
@@ -206,7 +206,7 @@
   },
   {
     "id": "019b8e31-4a74-71e6-9a52-64d807c31549",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 88,
     "position": "Defence",
     "name": "JC",
@@ -215,7 +215,7 @@
   },
   {
     "id": "019b8e31-4a74-72f7-84c1-97e530d60824",
-    "clubId": "DKH",
+    "clubAbbr": "DKH",
     "number": 90,
     "position": "Defence",
     "name": "Keith",
