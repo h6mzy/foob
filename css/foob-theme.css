@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6{font-weight:normal;line-height:1;margin-block:0;}html{font-siz
   --foob-text-sm: .8rem;
   --foob-text: 1.2rem;
   --foob-text-lg: 2rem;
-  --foob-radius: clamp(var(--gap), 4cqw, var(--gap-lg));
+  --foob-radius: clamp(var(--foob-gap), 4cqw, var(--foob-gap-lg));
   --foob-logo-size: clamp(20px, 12dvw, 30px);
 }
 
@@ -31,11 +31,11 @@ body {
 }
 
 a {
-  color: var(--color);
+  color: var(--foob-c-text);
 }
 
 small, .small {
-  font-size: var(--text-sm);
+  font-size: var(--foob-text-sm);
 }
 
 button {
