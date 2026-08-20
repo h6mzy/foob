@@ -1,4 +1,4 @@
-import { groupByPostition, sortLineup } from '../index.js';
+import { groupByPosition, sortLineup } from '../index.js';
 import { pickRandom } from 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.8/js/index.js';
 
 // sort by 'c' = captain first, then g, then by number
