@@ -1,4 +1,4 @@
-function pastMatches(matches) {
+export function getPastMatches(matches) {
   const now = Date.now();
   return [...matches]
     .filter(match => new Date(match.time) < now)
