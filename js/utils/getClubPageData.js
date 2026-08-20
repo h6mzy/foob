@@ -1,4 +1,5 @@
-import { clubs, matches, players, getFirstEleven, getNextMatch, getRemainingPlayers } from '../index.js';
+import { clubs, matches, players } from '../../demo/data/index.js';
+import { getFirstEleven, getNextMatch, getRemainingPlayers } from '../index.js';
 
 export function getClubPageData(abbr) {
   const clubsMap = new Map(clubs.map(c => [c.abbr, c]));
