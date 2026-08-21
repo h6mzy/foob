@@ -4,9 +4,14 @@ import matches from './matches.json' with { type: 'json' };
 import partners from './partners.json' with { type: 'json' };
 import players from './players.json' with { type: 'json' };
 
+const clubsMap = new Map(clubs.map(c => [c.abbr, c]));
+const competitionsMap = new Map(competitions.map(c => [c.abbr, c]));
+
 export {
   clubs,
+  clubsMap,
   competitions,
+  competitionsMap,
   matches,
   partners,
   players
