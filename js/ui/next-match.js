@@ -1,5 +1,5 @@
 import { createElement, createImg } from '../index.js';
-import { Countdown } from 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.4/js/index.js';
+import { Countdown } from 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.9/js/index.js';
 
 function NextMatch({
   club = 'Club Name',
@@ -27,17 +27,10 @@ function NextMatch({
   article.append(clubEl, clubImg, compImg);
   opponent.append(article);
   
-  // timer
-  const timer = createElement('div', { className: 'timer foob-nm-timer', id: 'timer' });
-  timer.append(
-    createUnit('days', 'DAY'),
-    createUnit('hours', 'HRS'),
-    createUnit('minutes', 'MIN'),
-    createUnit('seconds', 'SEC')
-  );
+  const countdown = Countdown(kickoff);
   
   // append opponent and timer to nextMatch
-  nextMatch.append(opponent, timer);
+  nextMatch.append(opponent, countdown);
   
   // partners logos
   const partnersWrap = createElement('div', { className: 'foob-nm-partners' });
@@ -55,17 +48,6 @@ function NextMatch({
   
   // append to element
   document.getElementById(id).append(main);
-  
-  // start countdown
-  renderCountdown(kickoff);
-};
-
-const createUnit = (key, label) => {
-  const wrapper = createElement('div');
-  const number = createElement('span', { className: 'foob-nm-num', dataset: { [key]: '' } });
-  const unit = createElement('span', { className: 'foob-nm-unit', textContent: label });
-  wrapper.append(number, unit);
-  return wrapper;
 };
 
 const partnerElements = (partners) => {
@@ -75,13 +57,6 @@ const partnerElements = (partners) => {
     a.append(img);
     return a;
   })
-};
-
-function renderCountdown(kickoff) {
-  const time = Date.parse(kickoff);
-  if (!isNaN(time)) {
-    Countdown.mount('#timer', time);
-  }
 };
 
 export default NextMatch;
