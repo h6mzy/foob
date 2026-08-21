@@ -18,45 +18,43 @@ function NextMatch({
   const clubEl = createElement('div', { className: 'foob-nm-club' });
   const clubName = createElement('div', { className: 'foob-nm-name', textContent: club });
   const competition = createElement('div', { className: 'foob-nm-competition', textContent: comp });
-  
+
   clubEl.append(clubName, competition);
-  
+
   const clubImg = createImg(clubLogo, club, 'foob-nm-logo');
   const compImg = createImg(compLogo, comp, 'foob-nm-logo');
-  
+
   article.append(clubEl, clubImg, compImg);
   opponent.append(article);
-  
+
   const countdown = Countdown(kickoff);
-  
-  // append opponent and timer to nextMatch
+
   nextMatch.append(opponent, countdown);
-  
-  // partners logos
+
   const partnersWrap = createElement('div', { className: 'foob-nm-partners' });
 
   if (partners.length > 0) {
     const partnersTitle = createElement('div', { className: 'foob-nm-partners-title', textContent: 'Partners' });
-    const partnersEl = createElement('div', { id: 'foob-nm-partners' });
-    
+    const partnersEl = createElement('div', { className: 'foob-nm-partners' });
+
     partnersEl.append(...partnerElements(partners));
     partnersWrap.append(partnersTitle, partnersEl);
   }
-  
-  // append nextMatch and partners to main
-  main.append(nextMatch, partnersWrap);
-  
-  // append to element
-  document.getElementById(id).append(main);
-};
 
-const partnerElements = (partners) => {
+  main.append(nextMatch, partnersWrap);
+
+  return main;
+}
+
+const partnerElements = partners => {
   return partners.map(p => {
     const img = createImg(p.logo, p.name, 'foob-nm-partner');
     const a = createElement('a', { href: p.website, target: '_blank', rel: 'noopener noreferrer' });
+
     a.append(img);
+    
     return a;
-  })
+  });
 };
 
 export default NextMatch;
