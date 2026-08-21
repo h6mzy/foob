@@ -1,4 +1,4 @@
-import { sortLineup } from '../../index.js'
+import { sortLineup } from '../index.js'
 
 export function getRemainingPlayers(
   players,
