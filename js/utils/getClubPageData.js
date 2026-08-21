@@ -13,7 +13,6 @@ export function getClubPageData(abbr) {
   
   return {
     club,
-    matches: clubMatches,
     nextMatch: enrichedNextMatch,
     firstEleven,
     remainingPlayers
