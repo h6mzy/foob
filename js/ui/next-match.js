@@ -21,10 +21,10 @@ function NextMatch(
   
   club.append(clubName, competition);
   
-  const clubLogo = createImg(clubLogo, club, 'foob-nm-logo');
-  const compLogo = createImg(compLogo, comp, 'foob-nm-logo');
+  const clubImg = createImg(clubLogo, club, 'foob-nm-logo');
+  const compImg = createImg(compLogo, comp, 'foob-nm-logo');
   
-  article.append(club, clubLogo, compLogo);
+  article.append(club, clubImg, compImg);
   opponent.append(article);
   
   // timer
