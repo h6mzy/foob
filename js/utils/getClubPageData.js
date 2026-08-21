@@ -1,4 +1,4 @@
-import { clubsMap, matches, players } from '../../demo/data/index.js';
+import { clubsMap, competitionsMap, matches, players } from '../../demo/data/index.js';
 import { getMatchdaySquad, getNextMatch } from '../index.js';
 
 export function getClubPageData(abbr) {
@@ -24,10 +24,31 @@ export function getClubPageData(abbr) {
         unavailable: []
       };
 
+  const comp = competitionsMap.get(enrichedNextMatch.competition);
+  const oppNature = nature === 'home' ? 'away' : 'home';
+  const opp = cenrichedNextMatch[oppNature];
+
+  const countdownProps = {
+    kickoff: enrichedNextMatch.time,
+    comp: comp.name,
+    compLogo: comp.logo,
+    club: opp.name,
+    clubLogo: opp.logo,
+    partners: [ // toFix
+      {
+        id: 'partner-01',
+        name: 'Owlwait',
+        website: 'https://www.owlwait.com/',
+        logo: 'https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/OWL_r.svg'
+      }
+    ]
+  };
+
   return {
     club,
     nextMatch: enrichedNextMatch,
-    ...squad
+    ...squad,
+    countdownProps
   };
 };
 
