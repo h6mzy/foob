@@ -9,9 +9,10 @@ export function getFirstEleven(players, clubMatchData, sort = 'c') {
   const [d, m, f] = clubMatchData.formation.split('').map(Number);
 
   const grouped = groupByPosition(players);
+  const firstElevenNumbers = new Set(clubMatchData.firstEleven.map(p => p.number));
 
-  const firstEleven = clubMatchData.lineup
-    ? players.filter(p => clubMatchData.firstEleven.includes(p.number))
+  const firstEleven = clubMatchData.firstEleven
+    ? players.filter(p => firstElevenNumbers.has(p.number))
     : [
         ...pickRandom(grouped.goal, 1),
         ...pickRandom(grouped.defence, d),
@@ -19,9 +20,7 @@ export function getFirstEleven(players, clubMatchData, sort = 'c') {
         ...pickRandom(grouped.forward, f),
       ];
 
-  const matchCaptain =
-    clubMatchData.matchCaptain ||
-    pickRandom(firstEleven, 1)[0]?.number;
+  const matchCaptain = clubMatchData.matchCaptain || pickRandom(firstEleven, 1)[0]?.number;
 
   const captainAssigned = firstEleven.map(player => ({
     ...player,
