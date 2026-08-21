@@ -1,12 +1,15 @@
-export function getRemainingPlayers(players, firstEleven, unavailable = []) {
+export function getRemainingPlayers(
+  players,
+  firstEleven,
+  unavailable = []
+) {
+  const firstElevenNumbers = new Set(firstEleven.map(p => p.number));
+  const unavailableMap = new Map(unavailable.map(u => [u.number, u.reason]));
+
   return players
-    .filter(player => !firstEleven.has(player.number))
+    .filter(player => !firstElevenNumbers.has(player.number))
     .map(player => ({
       ...player,
-      unavailable: unavailableReason(player.number)
+      unavailable: unavailableMap.get(player.number) || null
     }));
-};
-
-const unavailabeReason = (number) => {
-  return unavailable.find(u => u.number === number)?.reason || null;
-};
+}
