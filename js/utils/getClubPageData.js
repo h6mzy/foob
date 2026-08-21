@@ -4,21 +4,30 @@ import { getMatchdaySquad, getNextMatch } from '../index.js';
 export function getClubPageData(abbr) {
   const club = clubsMap.get(abbr);
   const clubPlayers = players.filter(p => p.clubAbbr === abbr);
-  
+
   const clubMatches = matches.filter(m => m.home === abbr || m.away === abbr);
+
   const nextMatch = getNextMatch(clubMatches);
   const enrichedNextMatch = nextMatch ? enrichMatch(nextMatch) : null;
-  
-  const nature = abbr === nextMatch.home ? 'home' : 'away';
 
-  const { firstEleven, remaining, unavailable } = getMatchdaySquad(players, clubMatchData);
-  
+  const nature = enrichedNextMatch
+    ? enrichedNextMatch.home.abbr === abbr
+      ? 'home'
+      : 'away'
+    : null;
+
+  const squad = enrichedNextMatch
+    ? getMatchdaySquad(clubPlayers,enrichedNextMatch[nature])
+    : {
+        firstEleven: [],
+        remaining: clubPlayers,
+        unavailable: []
+      };
+
   return {
     club,
     nextMatch: enrichedNextMatch,
-    firstEleven,
-    remaining,
-    unavailable
+    ...squad
   };
 };
 
