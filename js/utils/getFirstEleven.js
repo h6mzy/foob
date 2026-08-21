@@ -12,10 +12,9 @@ export function getFirstEleven(players, clubMatchData, sort = 'c') {
   const [d, m, f] = clubMatchData.formation.split('').map(Number);
 
   const grouped = groupByPosition(players);
-  const firstElevenNumbers = new Set(clubMatchData.firstEleven.map(p => p.number));
 
   const firstEleven = clubMatchData.firstEleven
-    ? players.filter(p => firstElevenNumbers.has(p.number))
+    ? players.filter(p => clubMatchData.firstEleven.has(p.number))
     : [
         ...pickRandom(grouped.goal, 1),
         ...pickRandom(grouped.defence, d),
