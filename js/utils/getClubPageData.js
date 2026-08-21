@@ -9,7 +9,7 @@ export function getClubPageData(abbr) {
   const enrichedNextMatch = nextMatch ? enrichMatch(nextMatch) : null;
   const nature = abbr === nextMatch.home ? 'home' : 'away';
   const firstEleven = getFirstEleven(clubPlayers, enrichedNextMatch[nature]);
-  const remainingPlayers = getRemainingPlayers(clubPlayers, firstEleven);
+  const remainingPlayers = getRemainingPlayers(clubPlayers, firstEleven, enrichedNextMatch[nature]?.unavailable || []);
   
   return {
     club,
