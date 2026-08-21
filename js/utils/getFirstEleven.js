@@ -5,6 +5,9 @@ import { pickRandom } from 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.8/js/ind
 // sort by 'g' = by g, then number
 // sort by 'n' = by number
 
+// toFix
+// exclude unavailable from pickRandom
+
 export function getFirstEleven(players, clubMatchData, sort = 'c') {
   const [d, m, f] = clubMatchData.formation.split('').map(Number);
 
