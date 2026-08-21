@@ -15,16 +15,16 @@ function NextMatch(
   const nextMatch = createElement('div', { id: 'foob-nm' });
   const opponent = createElement('div', { id: 'foob-nm-opponent' });
   const article = createElement('article', { className: 'foob-nm-opponent' });
-  const club = createElement('div', { className: 'foob-nm-club' });
+  const clubEl = createElement('div', { className: 'foob-nm-club' });
   const clubName = createElement('div', { className: 'foob-nm-name', textContent: club });
   const competition = createElement('div', { className: 'foob-nm-competition', textContent: comp });
   
-  club.append(clubName, competition);
+  clubEl.append(clubName, competition);
   
   const clubImg = createImg(clubLogo, club, 'foob-nm-logo');
   const compImg = createImg(compLogo, comp, 'foob-nm-logo');
   
-  article.append(club, clubImg, compImg);
+  article.append(clubEl, clubImg, compImg);
   opponent.append(article);
   
   // timer
@@ -41,11 +41,14 @@ function NextMatch(
   
   // partners logos
   const partnersWrap = createElement('div', { className: 'foob-nm-partners' });
-  const partnersTitle = createElement('div', { className: 'foob-nm-partners-title', textContent: 'Partners' });
-  const partnersEl = createElement('div', { id: 'foob-nm-partners' });
-  
-  partnersEl.append(...partnerElements(partners));
-  partnersWrap.append(partnersTitle, partnersEl);
+
+  if (partners.length > 0) {
+    const partnersTitle = createElement('div', { className: 'foob-nm-partners-title', textContent: 'Partners' });
+    const partnersEl = createElement('div', { id: 'foob-nm-partners' });
+    
+    partnersEl.append(...partnerElements(partners));
+    partnersWrap.append(partnersTitle, partnersEl);
+  }
   
   // append nextMatch and partners to main
   main.append(nextMatch, partnersWrap);
