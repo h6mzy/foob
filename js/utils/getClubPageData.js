@@ -7,7 +7,8 @@ export function getClubPageData(abbr) {
   const clubMatches = matches.filter(m => m.home === abbr || m.away === abbr);
   const nextMatch = getNextMatch(clubMatches);
   const enrichedNextMatch = nextMatch ? enrichMatch(nextMatch) : null;
-  const firstEleven = getFirstEleven(clubPlayers, nextMatchData);
+  const nature = abbr === nextMatch.home ? 'home' : 'away';
+  const firstEleven = getFirstEleven(clubPlayers, enrichedNextMatch[nature]);
   const remainingPlayers = getRemainingPlayers(clubPlayers, firstEleven);
   
   return {
