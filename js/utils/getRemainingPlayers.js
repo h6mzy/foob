@@ -6,6 +6,7 @@ export function getRemainingPlayers(
   unavailable = []
 ) {
   const firstElevenNumbers = new Set(firstEleven.map(p => p.number));
+  const unavailableNumbers = new Set(unavailable.map(p => p.number));
   const unavailableMap = new Map(unavailable.map(u => [u.number, u.reason]));
 
   return sortLineup(
@@ -16,6 +17,6 @@ export function getRemainingPlayers(
         unavailable: unavailableMap.get(player.number) || null
       })),
     'n',
-    unavailable
+    unavailableNumbers
   );
 }
