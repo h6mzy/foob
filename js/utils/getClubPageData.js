@@ -11,7 +11,7 @@ export function getClubPageData(abbr) {
   const firstEleven = getFirstEleven(clubPlayers, enrichedNextMatch[nature]);
   const remainingPlayers = getRemainingPlayers(
     clubPlayers,
-    firstEleven.map(p => p.number),
+    firstEleven,
     enrichedNextMatch[nature]?.unavailable || []
   );
   
