@@ -1,20 +1,20 @@
 import { createElement, createImg } from '../index.js';
 import { Countdown } from 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.4/js/index.js';
 
-function NextMatch(
+function NextMatch({
   club = 'Club Name',
   clubLogo = '',
   comp = 'Competition Name',
   compLogo = '',
   kickoff = null,
   partners = []
-) {
-  if (!kickoff) return;
+} = {}) {
+  if (!kickoff) return null;
 
-  const main = createElement('div', { className: 'foob-nm' });
-  const nextMatch = createElement('div', { id: 'foob-nm' });
-  const opponent = createElement('div', { id: 'foob-nm-opponent' });
-  const article = createElement('article', { className: 'foob-nm-opponent' });
+  const main = createElement('div', { className: 'foob-nm-main' });
+  const nextMatch = createElement('div', { className: 'foob-nm-details' });
+  const opponent = createElement('div', { className: 'foob-nm-opponent' });
+  const article = createElement('article', { className: 'foob-nm-opponent-article' });
   const clubEl = createElement('div', { className: 'foob-nm-club' });
   const clubName = createElement('div', { className: 'foob-nm-name', textContent: club });
   const competition = createElement('div', { className: 'foob-nm-competition', textContent: comp });
