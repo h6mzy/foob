@@ -126,8 +126,7 @@
     "competition": "MSF",
     "venue": "Anderson Secondary School",
     "home": "DKH",
-    "away": "HIT",
-    "awayData": {
+    "homeData": {
       "formation": "451",
       "firstEleven": [1, 17, 3, 69, 27, 6, 14, 15, 0, 8],
       "matchCaptain": 69,
@@ -138,6 +137,7 @@
         { "number": 88, "reason": "Unavailable" }
       ]
     },
+    "away": "HIT",
     "score": [],
     "events": [],
     "winner": null
