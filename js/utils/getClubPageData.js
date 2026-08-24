@@ -39,7 +39,7 @@ export function getClubPageData(abbr) {
 function getNextMatchProps(match, abbr) {
   const nature = match.home === abbr ? 'home' : 'away'
 
-  const opponent = getOpponents(match, abbr, clubsMap);
+  const opponent = getOpponents(abbr, match, clubsMap);
   const club = opponent?.name || '';
   const clubLogo = opponent?.logo || '';
   
