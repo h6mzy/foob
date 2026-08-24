@@ -116,6 +116,28 @@
         { "number": 88, "reason": "Unavailable" }
       ]
     },
+    "score": [5, 2],
+    "events": [],
+    "winner": "HIL"
+  },
+  {
+    "id": "019c5c75-4f5d-79e5-bbaa-3c0159adc86b",
+    "time": "2026-08-30T15:00",
+    "competition": "MSF",
+    "venue": "Anderson Secondary School",
+    "home": "DKH",
+    "away": "HIT",
+    "awayData": {
+      "formation": "451",
+      "firstEleven": [1, 17, 3, 69, 27, 6, 14, 15, 0, 8],
+      "matchCaptain": 69,
+      "unavailable": [
+        { "number": 9, "reason": "Suspended" },
+        { "number": 13, "reason": "Unavailable" },
+        { "number": 17, "reason": "Injured" },
+        { "number": 88, "reason": "Unavailable" }
+      ]
+    },
     "score": [],
     "events": [],
     "winner": null
