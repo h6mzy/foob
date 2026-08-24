@@ -29,7 +29,7 @@ export function getClubPageData(abbr) {
 
   const comp = competitionsMap.get(enrichedNextMatch.competition);
   const oppNature = nature === 'home' ? 'away' : 'home';
-  const opp = cenrichedNextMatch[oppNature];
+  const opp = enrichedNextMatch[oppNature];
 
   const countdownProps = {
     kickoff: enrichedNextMatch.time,
