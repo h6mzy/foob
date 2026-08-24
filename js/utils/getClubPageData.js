@@ -8,6 +8,9 @@ export function getClubPageData(abbr) {
   const clubMatches = matches.filter(m => m.home === abbr || m.away === abbr);
 
   const nextMatch = getNextMatch(clubMatches);
+
+  if (!nextMatch) return;
+    
   const enrichedNextMatch = nextMatch ? enrichMatch(nextMatch) : null;
 
   const nature = enrichedNextMatch
