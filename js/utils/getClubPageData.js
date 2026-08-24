@@ -37,18 +37,15 @@ export function getClubPageData(abbr) {
 };
 
 function getNextMatchProps(match, abbr) {
+  const nature = match.home === abbr ? 'home' : 'away'
+
+  const opponent = getOpponents(match, abbr, clubsMap);
+  const club = opponent?.name || '';
+  const clubLogo = opponent?.logo || '';
+  
   const competition = competitionsMap.get(match.competition);
   const comp = competition?.name || '';
   const compLogo = competition?.logo || '';
-
-  const nature = match.home === abbr
-    ? 'home'
-    : 'away'
-  
-  const oppNature = nature === 'home' ? 'away' : 'home';
-  const opponent = clubsMap.get(match[oppNature]);
-  const club = opponent?.name || '';
-  const clubLogo = opponent?.logo || '';
 
   return {
     kickoff: match.time,
