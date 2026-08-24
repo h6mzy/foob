@@ -11,8 +11,9 @@ export function getClubPageData(abbr) {
 
   if (!nextMatch) return;
     
-  const enrichedNextMatch = nextMatch ? enrichMatch(nextMatch) : null;
+  const nextMatchProps = nextMatch ? getNextMatchProps(nextMatch) : null;
 
+  /*
   const nature = enrichedNextMatch
     ? enrichedNextMatch.home.abbr === abbr
       ? 'home'
@@ -20,23 +21,41 @@ export function getClubPageData(abbr) {
     : null;
 
   const squad = enrichedNextMatch
-    ? getMatchdaySquad(clubPlayers,enrichedNextMatch[nature])
+    ? getMatchdaySquad(clubPlayers, enrichedNextMatch[nature])
     : {
         firstEleven: [],
         remaining: clubPlayers,
         unavailable: []
       };
+  */
 
-  const comp = competitionsMap.get(enrichedNextMatch.competition);
+  return {
+    club,
+    nextMatchProps,
+    ...squad
+  };
+};
+
+function getNextMatchProps(match) {
+  const competition = competitionsMap.get(match.competition);
+  const comp = competition?.name || '';
+  const compLogo = competition?.logo || '';
+
+  const nature = match.home === abbr
+    ? 'home'
+    : 'away'
+  
   const oppNature = nature === 'home' ? 'away' : 'home';
-  const opp = enrichedNextMatch[oppNature];
+  const opponent = clubsMap.get(match[oppNature]);
+  const club = opponent?.name || '';
+  const clubLogo = opponent?.logo || '';
 
-  const countdownProps = {
-    kickoff: enrichedNextMatch.time,
-    comp: comp.name,
-    compLogo: comp.logo,
-    club: opp.name,
-    clubLogo: opp.logo,
+  return {
+    kickoff: match.time,
+    comp,
+    compLogo,
+    club,
+    clubLogo,
     partners: [ // toFix
       {
         id: 'partner-01',
@@ -45,30 +64,5 @@ export function getClubPageData(abbr) {
         logo: 'https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/OWL_r.svg'
       }
     ]
-  };
-
-  return {
-    club,
-    nextMatch: enrichedNextMatch,
-    ...squad,
-    countdownProps
-  };
-};
-
-function enrichMatch(match) {
-  const { homeData, awayData, ...rest } = match;
-
-  return {
-    ...rest,
-    home: {
-      ...homeData,
-      ...clubsMap.get(match.home),
-      abbr: match.home
-    },
-    away: {
-      ...awayData,
-      ...clubsMap.get(match.away),
-      abbr: match.away
-    }
   };
 };
