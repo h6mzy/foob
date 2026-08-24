@@ -31,8 +31,8 @@ export function getClubPageData(abbr) {
 
   return {
     club,
-    nextMatchProps,
-    ...squad
+    nextMatchProps//,
+    //...squad
   };
 };
 
