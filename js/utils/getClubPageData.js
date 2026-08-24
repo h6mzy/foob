@@ -11,7 +11,7 @@ export function getClubPageData(abbr) {
 
   if (!nextMatch) return;
     
-  const nextMatchProps = nextMatch ? getNextMatchProps(nextMatch) : null;
+  const nextMatchProps = nextMatch ? getNextMatchProps(nextMatch, abbr) : null;
 
   /*
   const nature = enrichedNextMatch
@@ -36,7 +36,7 @@ export function getClubPageData(abbr) {
   };
 };
 
-function getNextMatchProps(match) {
+function getNextMatchProps(match, abbr) {
   const competition = competitionsMap.get(match.competition);
   const comp = competition?.name || '';
   const compLogo = competition?.logo || '';
