@@ -1,4 +1,4 @@
-import { competitionsMap } from '../../demo/data/index.js';
+import { clubsMap, competitionsMap } from '../../demo/data/index.js';
 import { getOpponents, getPartners } from '../index.js';
 
 export function getNextMatchProps(match, abbr) {
