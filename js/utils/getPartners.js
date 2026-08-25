@@ -1,4 +1,4 @@
-import { clubsMap } from '../../demo/data/';
+import { clubsMap } from '../../demo/data/index.js';
 
 export function getPartners(clubs) {
   return clubs
