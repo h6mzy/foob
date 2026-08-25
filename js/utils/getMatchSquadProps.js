@@ -1,4 +1,4 @@
-import { groupByPosition, sortLineup } from '../';
+import { groupByPosition, sortLineup } from '../index.js';
 import { pickRandom } from 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.8/js/index.js';
 
 export function getMatchSquadProps(data, players) {
