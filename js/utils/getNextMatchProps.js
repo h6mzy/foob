@@ -1,5 +1,5 @@
-import { competitionsMap } from '../../demo/data';
-import { getOpponents, getPartners } from './';
+import { competitionsMap } from '../../demo/data/index.js';
+import { getOpponents, getPartners } from '../index.js';
 
 export function getNextMatchProps(match, abbr) {
   const opponent = getOpponents(abbr, match, clubsMap);
