@@ -6,6 +6,7 @@ import players from './players.json' with { type: 'json' };
 
 const clubsMap = new Map(clubs.map(c => [c.abbr, c]));
 const competitionsMap = new Map(competitions.map(c => [c.abbr, c]));
+const partnersMap = new Map(partners.map(p => [p.abbr, p]));
 
 export {
   clubs,
@@ -14,5 +15,6 @@ export {
   competitionsMap,
   matches,
   partners,
+  partnersMap,
   players
 };

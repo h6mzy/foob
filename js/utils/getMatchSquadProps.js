@@ -1,9 +1,9 @@
-import { groupByPosition, sortLineup } from '../index.js';
+import { groupByPosition, sortLineup } from '../';
 import { pickRandom } from 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.8/js/index.js';
 
-export function getMatchdaySquad(players, clubMatchData) {
+export function getMatchSquadProps(data, players) {
   const unavailableMap = new Map(
-    (clubMatchData.unavailable || [])
+    (data.unavailable || [])
       .map(u => [u.number, u.reason])
   );
 
@@ -13,7 +13,7 @@ export function getMatchdaySquad(players, clubMatchData) {
 
   // Configured first eleven
   const configuredNumbers = new Set(
-    clubMatchData.firstEleven || []
+    data.firstEleven || []
   );
 
   const hasFirstEleven = configuredNumbers.size > 0;
@@ -30,7 +30,7 @@ export function getMatchdaySquad(players, clubMatchData) {
         players.filter(
           player => !unavailableNumbers.has(player.number)
         ),
-        clubMatchData.formation
+        data.formation
       );
 
   const firstElevenNumbers = new Set(
@@ -65,7 +65,7 @@ export function getMatchdaySquad(players, clubMatchData) {
 
   // Assign captain
   const matchCaptain =
-    clubMatchData.matchCaptain ||
+    data.matchCaptain ||
     pickRandom(groups.firstEleven, 1)[0]?.number;
 
   groups.firstEleven = groups.firstEleven.map(player => ({
