@@ -1,5 +1,5 @@
-import { clubsMap, matches, players } from '../../demo/data/';
-import { getMatchSquadProps, getNextMatch, getNextMatchProps } from '../';
+import { clubsMap, matches, players } from '../../demo/data/index.js';
+import { getMatchSquadProps, getNextMatch, getNextMatchProps } from '../index.js';
 
 export function getClubPageData(abbr) {
   const club = clubsMap.get(abbr);
