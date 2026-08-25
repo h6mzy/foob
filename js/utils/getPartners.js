@@ -4,6 +4,6 @@ export function getPartners(clubs) {
   return clubs
     .map(abbr => partnersMap.get(
       clubsMap.get(abbr)?.partners
-    )?.filter(Boolean) 
+    ))?.filter(Boolean) 
     || [];
 }
