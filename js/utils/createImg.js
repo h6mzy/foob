@@ -1,5 +1,3 @@
-import { imageExists } from '../index.js';
-
 export const createImg = (
   src,
   alt,
@@ -9,8 +7,12 @@ export const createImg = (
   article.className = className;
 
   const img = document.createElement('img')
-  img.src =  await imageExists(src);
+  img.src = src;
   img.alt = alt;
+
+  img.onerror = () => {
+    img.src = 'https://cdn.jsdelivr.net/gh/h6mzy/bits@1.11.11/examples/img/placeholder.webp';
+  };
 
   article.append(img);
   
