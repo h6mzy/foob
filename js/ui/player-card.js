@@ -22,11 +22,7 @@ function PlayerCard({
     card.classList.add('fluid-ht');
   }
 
-  const img = createImg(
-    image,
-    name,
-    'foob-player-card-img'
-  );
+  const img = createImg(image, name, 'foob-player-card-img');
 
   const clubEl = document.createElement('div');
   clubEl.className = 'foob-player-card-club';
@@ -38,11 +34,7 @@ function PlayerCard({
   clubEl.append(numberEl, img);
 
   if (logo) {
-    const logoEl = createImg(
-      logo,
-      club,
-      'foob-player-club-logo'
-    );
+    const logoEl = createImg(logo, club, 'foob-player-card-logo');
 
     clubEl.append(logoEl);
   }
