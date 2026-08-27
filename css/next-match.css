@@ -16,7 +16,7 @@
   --foob-nm-logo: clamp(20px, 12dvw, 30px);
 }
 
-.foob-nm {
+.foob-nm-main {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -26,14 +26,14 @@
   text-transform: uppercase;
 }
 
-#foob-nm {
+.foob-nm-details {
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
   gap: var(--foob-nm-gap-sm) var(--foob-nm-gap-lg);
 }
 
-.foob-nm-opponent {
+.foob-nm-opponent-article {
   display: flex;
   align-items: center;
   gap: var(--foob-nm-gap-sm);
@@ -59,7 +59,7 @@
   overflow: hidden;
 }
 
-.foob-nm-timer {
+.bits-countdown {
   gap: var(--foob-nm-gap);
   font-size: var(--foob-nm-text-lg);
   width: calc(var(--foob-nm-gap) * 3 + 2ch * 4);
@@ -74,17 +74,17 @@
   }
 }
 
-.foob-nm-num {
+.bits-num {
   color: var(--foob-nm-time);
   font-weight: bold;
   width: 2ch;
 }
 
-.finished .foob-nm-num {
+.finished .bits-time {
   color: var(--foob-nm-finished);
 }
 
-.foob-nm-unit {
+.bits-unit {
   color: var(--foob-nm-unit);
   font-size: var(--foob-nm-text-sm);
 }
@@ -100,7 +100,7 @@
   line-height: 1;
 }
 
-#foob-nm-partners {
+.foob-nm-partners-logos {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
@@ -113,7 +113,7 @@
 }
 
 @media screen and (min-width: 481px) {
-  #foob-nm {
+  .foob-nm-details {
     flex-flow: row wrap;
     flex: 1;
   }
