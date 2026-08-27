@@ -65,7 +65,7 @@ function NextMatch({
     partnersTitle.textContent = 'Partners';
 
     const partnersEl = document.createElement('div');
-    partnersEl.className = 'foob-nm-partners';
+    partnersEl.className = 'foob-nm-partners-logos';
 
     partnersEl.append(...partnerElements(partners));
 
