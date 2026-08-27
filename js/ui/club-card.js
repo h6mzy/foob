@@ -1,7 +1,7 @@
 import { createImg } from '../index.js';
 
 function ClubCard({
-  logo = 'https://cdn.jsdelivr.net/gh/h6mzy/foob@main/demo/svg/DKH.svg',
+  logo,
   name = 'Club name',
   fluidHeight = false
 } = {}) {
@@ -9,7 +9,7 @@ function ClubCard({
   const article = document.createElement('article');
   article.className = 'foob-club-article';
 
-  const card = createElement('div');
+  const card = document.createElement('div');
   card.className = 'foob-club-card';
 
   if (fluidHeight) {
