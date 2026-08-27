@@ -1,3 +1,5 @@
+import { imageExists } from '../index.js';
+
 export const createImg = (
   src,
   alt,
