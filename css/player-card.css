@@ -30,6 +30,16 @@
   flex-flow: column nowrap;
   justify-content: space-between;
   container: foob-player-card / size;
+
+  .foob-player-card-img.transparent-bg img {
+    height: 90%;
+  }
+
+  &:has(.transparent-bg) {
+    .foob-player-card-number {
+      z-index: 1;
+    }
+  }
 }
 
 .foob-player-card.fluid-ht {
@@ -63,14 +73,18 @@
   font-size: 40cqw;
   font-weight: bold;
   line-height: 1;
-  z-index: 0;
+  z-index: 1;
 }
 
 .foob-player-card-logo {
-  width: 18cqw;
-  height: 18cqw;
-  object-fit: contain;
-  z-index: 1;
+  display: contents;
+  
+  img {
+    width: 18cqw;
+    height: 18cqw;
+    object-fit: contain;
+    z-index: 1;
+  }
 }
 
 .foob-player-card-img {
@@ -78,7 +92,7 @@
   
   img {
     width: 100%;
-    height: 90%;
+    height: 100%;
     position: absolute;
     bottom: 0;
     left: 0;
