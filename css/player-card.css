@@ -37,7 +37,7 @@
 
   &:has(.transparent-bg) {
     .foob-player-card-number {
-      z-index: 1;
+      z-index: 0;
     }
   }
 }
