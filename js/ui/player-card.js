@@ -9,7 +9,8 @@ function PlayerCard({
   club = 'Club name',
   captain = false,
   label = null,
-  fluidHeight = false
+  fluidHeight = false,
+  transparent = true
 } = {}) {
 
   const article = document.createElement('article');
@@ -23,6 +24,10 @@ function PlayerCard({
   }
 
   const img = createImg(image, name, 'foob-player-card-img');
+
+  if (transparent) {
+    img.classList.add('transparent-bg');
+  }
 
   const clubEl = document.createElement('div');
   clubEl.className = 'foob-player-card-club';
